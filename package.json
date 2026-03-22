@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "dev": "next dev",
+    "format": "biome format --write",
     "lint": "biome check",
-    "format": "biome format --write"
+    "prepare": "husky",
+    "start": "next start",
+    "tscheck": "tsc --noEmit"
   },
   "dependencies": {
     "next": "16.2.1",
@@ -21,7 +23,14 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "babel-plugin-react-compiler": "1.0.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
     "tailwindcss": "^4",
     "typescript": "^5"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx,json,css,mjs}": [
+      "biome check --write"
+    ]
   }
 }
