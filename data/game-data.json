@@ -1,0 +1,6790 @@
+{
+	"umas": [
+		{
+			"card_id": 100101,
+			"name_en": "Special Week",
+			"title_en_gl": "[Special Dreamer]"
+		},
+		{
+			"card_id": 100102,
+			"name_en": "Special Week",
+			"title_en_gl": "[Hopp'n♪Happy Heart]",
+			"version": "summer"
+		},
+		{
+			"card_id": 100201,
+			"name_en": "Silence Suzuka",
+			"title_en_gl": "[Innocent Silence]"
+		},
+		{
+			"card_id": 100301,
+			"name_en": "Tokai Teio",
+			"title_en_gl": "[Peak Joy]"
+		},
+		{
+			"card_id": 100302,
+			"name_en": "Tokai Teio",
+			"title_en_gl": "[Beyond the Horizon]",
+			"version": "anime_collab"
+		},
+		{
+			"card_id": 100401,
+			"name_en": "Maruzensky",
+			"title_en_gl": "[Formula R]"
+		},
+		{
+			"card_id": 100402,
+			"name_en": "Maruzensky",
+			"title_en_gl": "[Hot☆Summer Night]",
+			"version": "summer"
+		},
+		{
+			"card_id": 100501,
+			"name_en": "Fuji Kiseki",
+			"title_en_gl": "[Shooting Star Revue]"
+		},
+		{
+			"card_id": 100601,
+			"name_en": "Oguri Cap",
+			"title_en_gl": "[Starlight Beat]"
+		},
+		{
+			"card_id": 100701,
+			"name_en": "Gold Ship",
+			"title_en_gl": "[Red Strife]"
+		},
+		{
+			"card_id": 100801,
+			"name_en": "Vodka",
+			"title_en_gl": "[Wild Top Gear]"
+		},
+		{
+			"card_id": 100901,
+			"name_en": "Daiwa Scarlet",
+			"title_en_gl": "[Peak Blue]"
+		},
+		{
+			"card_id": 101001,
+			"name_en": "Taiki Shuttle",
+			"title_en_gl": "[Wild Frontier]"
+		},
+		{
+			"card_id": 101101,
+			"name_en": "Grass Wonder",
+			"title_en_gl": "[Stone-Piercing Blue]"
+		},
+		{
+			"card_id": 101102,
+			"name_en": "Grass Wonder",
+			"title_en_gl": "[Saintly Jade Cleric ]",
+			"version": "fantasy"
+		},
+		{
+			"card_id": 101201,
+			"name_en": "Hishi Amazon",
+			"title_en_gl": "[Azure Amazon]"
+		},
+		{
+			"card_id": 101301,
+			"name_en": "Mejiro McQueen",
+			"title_en_gl": "[Frontline Elegance]"
+		},
+		{
+			"card_id": 101302,
+			"name_en": "Mejiro McQueen",
+			"title_en_gl": "[End of the Skies]",
+			"version": "anime_collab"
+		},
+		{
+			"card_id": 101401,
+			"name_en": "El Condor Pasa",
+			"title_en_gl": "[El☆Número 1]"
+		},
+		{
+			"card_id": 101402,
+			"name_en": "El Condor Pasa",
+			"title_en_gl": "[Kukulkan Warrior]",
+			"version": "fantasy"
+		},
+		{
+			"card_id": 101501,
+			"name_en": "TM Opera O",
+			"title_en_gl": "[O Sole Suo!]"
+		},
+		{
+			"card_id": 101601,
+			"name_en": "Narita Brian",
+			"title_en_gl": "[Maverick]"
+		},
+		{
+			"card_id": 101701,
+			"name_en": "Symboli Rudolf",
+			"title_en_gl": "[Emperor's Path]"
+		},
+		{
+			"card_id": 101801,
+			"name_en": "Air Groove",
+			"title_en_gl": "[Empress Road]"
+		},
+		{
+			"card_id": 101802,
+			"name_en": "Air Groove",
+			"title_en_gl": "[Quercus Civilis]",
+			"version": "wedding"
+		},
+		{
+			"card_id": 101901,
+			"name_en": "Agnes Digital",
+			"title_en_gl": "[Full-Color Fangirling]"
+		},
+		{
+			"card_id": 102001,
+			"name_en": "Seiun Sky",
+			"title_en_gl": "[Reeling in the Big One]"
+		},
+		{
+			"card_id": 102301,
+			"name_en": "Biwa Hayahide",
+			"title_en_gl": "[pf. Winning Equation...]"
+		},
+		{
+			"card_id": 102401,
+			"name_en": "Mayano Top Gun",
+			"title_en_gl": "[Scramble☆Zone]"
+		},
+		{
+			"card_id": 102402,
+			"name_en": "Mayano Top Gun",
+			"title_en_gl": "[Sunlight Bouquet]",
+			"version": "wedding"
+		},
+		{
+			"card_id": 102601,
+			"name_en": "Mihono Bourbon",
+			"title_en_gl": "[MB-19890425]"
+		},
+		{
+			"card_id": 102701,
+			"name_en": "Mejiro Ryan",
+			"title_en_gl": "[Down the Line]"
+		},
+		{
+			"card_id": 102801,
+			"name_en": "Hishi Akebono",
+			"title_en_gl": "[Buono ☆ Alla Moda]"
+		},
+		{
+			"card_id": 103001,
+			"name_en": "Rice Shower",
+			"title_en_gl": "[Rosy Dreams]"
+		},
+		{
+			"card_id": 103201,
+			"name_en": "Agnes Tachyon",
+			"title_en_gl": "[tach-nology]"
+		},
+		{
+			"card_id": 103501,
+			"name_en": "Winning Ticket",
+			"title_en_gl": "[Get to Winning!]"
+		},
+		{
+			"card_id": 103701,
+			"name_en": "Eishin Flash",
+			"title_en_gl": "[Meisterschaft]"
+		},
+		{
+			"card_id": 103801,
+			"name_en": "Curren Chan",
+			"title_en_gl": "[Fille Éclair]"
+		},
+		{
+			"card_id": 104001,
+			"name_en": "Gold City",
+			"title_en_gl": "[Authentic / 1928]"
+		},
+		{
+			"card_id": 104101,
+			"name_en": "Sakura Bakushin O",
+			"title_en_gl": "[Blossom in Learning]"
+		},
+		{
+			"card_id": 104501,
+			"name_en": "Super Creek",
+			"title_en_gl": "[Murmuring Stream]"
+		},
+		{
+			"card_id": 104601,
+			"name_en": "Smart Falcon",
+			"title_en_gl": "[LOVE☆4EVER]"
+		},
+		{
+			"card_id": 105001,
+			"name_en": "Narita Taishin",
+			"title_en_gl": "[Nevertheless]"
+		},
+		{
+			"card_id": 105201,
+			"name_en": "Haru Urara",
+			"title_en_gl": "[Bestest Prize ♪]"
+		},
+		{
+			"card_id": 105601,
+			"name_en": "Matikanefukukitaru",
+			"title_en_gl": "[Rising☆Fortune]"
+		},
+		{
+			"card_id": 105602,
+			"name_en": "Matikanefukukitaru",
+			"title_en_gl": "[Lucky Tidings]",
+			"version": "full_armor"
+		},
+		{
+			"card_id": 105801,
+			"name_en": "Meisho Doto",
+			"title_en_gl": "[Turbulent Blue]"
+		},
+		{
+			"card_id": 106001,
+			"name_en": "Nice Nature",
+			"title_en_gl": "[Poinsettia Ribbon]"
+		},
+		{
+			"card_id": 106101,
+			"name_en": "King Halo",
+			"title_en_gl": "[King of Emeralds]"
+		},
+		{
+			"card_id": 103002,
+			"name_en": "Rice Shower",
+			"title_en_gl": "[Vampire Makeover!]",
+			"version": "halloween"
+		},
+		{
+			"card_id": 104502,
+			"name_en": "Super Creek",
+			"title_en_gl": "[Chiffon-Wrapped Mummy]",
+			"version": "halloween"
+		},
+		{
+			"card_id": 103901,
+			"name_en": "Kawakami Princess",
+			"title_en_gl": "[Princess of Pink]"
+		},
+		{
+			"card_id": 102501,
+			"name_en": "Manhattan Cafe",
+			"title_en_gl": "[Creeping Shadow]"
+		},
+		{
+			"card_id": 101702,
+			"name_en": "Symboli Rudolf",
+			"title_en_gl": "[Archer by Moonlight]",
+			"version": "fall_festival"
+		},
+		{
+			"card_id": 104002,
+			"name_en": "Gold City",
+			"title_en_gl": "[Autumn Cosmos]",
+			"version": "fall_festival"
+		},
+		{
+			"card_id": 104801,
+			"name_en": "Tosen Jordan",
+			"title_en_gl": "[Jokester ☆ Vibes]"
+		},
+		{
+			"card_id": 105901,
+			"name_en": "Mejiro Dober",
+			"title_en_gl": "[Off the Line]"
+		},
+		{
+			"card_id": 100602,
+			"name_en": "Oguri Cap",
+			"title_en_gl": "[Ashen Miracle]",
+			"version": "christmas"
+		},
+		{
+			"card_id": 102302,
+			"name_en": "Biwa Hayahide",
+			"title_en_gl": "[Rouge Caroler]",
+			"version": "christmas"
+		},
+		{
+			"card_id": 102201,
+			"name_en": "Fine Motion",
+			"title_en_gl": "[Noble Seamair]"
+		},
+		{
+			"card_id": 102101,
+			"name_en": "Tamamo Cross",
+			"title_en_gl": "[Fast as Lightning]"
+		},
+		{
+			"card_id": 101502,
+			"name_en": "TM Opera O",
+			"title_en_gl": "[New Year, Same Radiance!]",
+			"version": "new_year"
+		},
+		{
+			"card_id": 105202,
+			"name_en": "Haru Urara",
+			"title_en_gl": "[New Year ♪ New Urara!]",
+			"version": "new_year"
+		},
+		{
+			"card_id": 106901,
+			"name_en": "Sakura Chiyono O",
+			"title_en_gl": "[Strength in Full Bloom]"
+		},
+		{
+			"card_id": 102602,
+			"name_en": "Mihono Bourbon",
+			"title_en_gl": "[CODE: ICING]",
+			"version": "valentine"
+		},
+		{
+			"card_id": 103702,
+			"name_en": "Eishin Flash",
+			"title_en_gl": "[Precise Chocolatier]",
+			"version": "valentine"
+		},
+		{
+			"card_id": 107101,
+			"name_en": "Mejiro Ardan",
+			"title_en_gl": "[Crystalline]"
+		},
+		{
+			"card_id": 103301,
+			"name_en": "Admire Vega",
+			"title_en_gl": "[Starry Nocturne]"
+		},
+		{
+			"card_id": 106201,
+			"name_en": "Matikanetannhauser",
+			"title_en_gl": "[Clippety-Tippety-Clop]"
+		},
+		{
+			"card_id": 106801,
+			"name_en": "Kitasan Black",
+			"title_en_gl": "[Gilded Shrine to Glory]"
+		},
+		{
+			"card_id": 106701,
+			"name_en": "Satono Diamond",
+			"title_en_gl": "[Natural Brilliance]"
+		},
+		{
+			"card_id": 107401,
+			"name_en": "Mejiro Bright",
+			"title_en_gl": "[Brunissage Line]"
+		},
+		{
+			"card_id": 100502,
+			"name_en": "Fuji Kiseki",
+			"title_en_gl": "[Succès Étoilé]",
+			"version": "ballroom"
+		},
+		{
+			"card_id": 102002,
+			"name_en": "Seiun Sky",
+			"title_en_gl": "[Soirée des Chatons]",
+			"version": "ballroom"
+		},
+		{
+			"card_id": 105101,
+			"name_en": "Nishino Flower",
+			"title_en_gl": "[Layered Petals]"
+		},
+		{
+			"card_id": 107201,
+			"name_en": "Yaeno Muteki",
+			"title_en_gl": "[Blazed Head, Covered Fists]"
+		},
+		{
+			"card_id": 106002,
+			"name_en": "Nice Nature",
+			"title_en_gl": "[Run & Win]",
+			"version": "cheerleader"
+		},
+		{
+			"card_id": 106102,
+			"name_en": "King Halo",
+			"title_en_gl": "[Cheerleader in Noble White]",
+			"version": "cheerleader"
+		},
+		{
+			"card_id": 103101,
+			"name_en": "Ines Fujin",
+			"title_en_gl": "[Always Electrifying]"
+		},
+		{
+			"card_id": 106401,
+			"name_en": "Mejiro Palmer",
+			"title_en_gl": "[Line Breakthrough]"
+		},
+		{
+			"card_id": 102202,
+			"name_en": "Fine Motion",
+			"title_en_gl": "[Titania]",
+			"version": "wedding"
+		},
+		{
+			"card_id": 103802,
+			"name_en": "Curren Chan",
+			"title_en_gl": "[Ma Chérie of the New Moon]",
+			"version": "wedding"
+		},
+		{
+			"card_id": 103401,
+			"name_en": "Inari One",
+			"title_en_gl": "[Edomurasaki]"
+		},
+		{
+			"card_id": 104401,
+			"name_en": "Sweep Tosho",
+			"title_en_gl": "[Platanus Witch]"
+		},
+		{
+			"card_id": 101002,
+			"name_en": "Taiki Shuttle",
+			"title_en_gl": "[Bubblegum☆Memories]",
+			"version": "camping"
+		},
+		{
+			"card_id": 105902,
+			"name_en": "Mejiro Dober",
+			"title_en_gl": "[Sapphire Sojourn]",
+			"version": "camping"
+		},
+		{
+			"card_id": 103601,
+			"name_en": "Air Shakur",
+			"title_en_gl": "[unsigned]"
+		},
+		{
+			"card_id": 100103,
+			"name_en": "Special Week",
+			"title_en_gl": "[Ruler of Japan]",
+			"version": "commander"
+		},
+		{
+			"card_id": 100702,
+			"name_en": "Gold Ship",
+			"version": "summer"
+		},
+		{
+			"card_id": 101303,
+			"name_en": "Mejiro McQueen",
+			"version": "summer"
+		},
+		{
+			"card_id": 105301,
+			"name_en": "Bamboo Memory"
+		},
+		{
+			"card_id": 109801,
+			"name_en": "Copano Rickey"
+		},
+		{
+			"card_id": 104602,
+			"name_en": "Smart Falcon",
+			"version": "grand_live"
+		},
+		{
+			"card_id": 103502,
+			"name_en": "Winning Ticket",
+			"version": "steampunk"
+		},
+		{
+			"card_id": 105002,
+			"name_en": "Narita Taishin",
+			"version": "steampunk"
+		},
+		{
+			"card_id": 102901,
+			"name_en": "Yukino Bijin"
+		},
+		{
+			"card_id": 104201,
+			"name_en": "Seeking the Pearl"
+		},
+		{
+			"card_id": 101902,
+			"name_en": "Agnes Digital",
+			"version": "halloween"
+		},
+		{
+			"card_id": 105802,
+			"name_en": "Meisho Doto",
+			"version": "halloween"
+		},
+		{
+			"card_id": 108701,
+			"name_en": "Aston Machan"
+		},
+		{
+			"card_id": 107801,
+			"name_en": "Yamanin Zephyr"
+		},
+		{
+			"card_id": 102102,
+			"name_en": "Tamamo Cross",
+			"version": "fall_festival"
+		},
+		{
+			"card_id": 103402,
+			"name_en": "Inari One",
+			"version": "fall_festival"
+		},
+		{
+			"card_id": 104901,
+			"name_en": "Nakayama Festa"
+		},
+		{
+			"card_id": 110001,
+			"name_en": "Wonder Acute"
+		},
+		{
+			"card_id": 100802,
+			"name_en": "Vodka",
+			"version": "christmas"
+		},
+		{
+			"card_id": 100902,
+			"name_en": "Daiwa Scarlet",
+			"version": "christmas"
+		},
+		{
+			"card_id": 104701,
+			"name_en": "Zenno Rob Roy"
+		},
+		{
+			"card_id": 101602,
+			"name_en": "Narita Brian",
+			"version": "blaze"
+		},
+		{
+			"card_id": 106702,
+			"name_en": "Satono Diamond",
+			"version": "new_year"
+		},
+		{
+			"card_id": 106802,
+			"name_en": "Kitasan Black",
+			"version": "new_year"
+		},
+		{
+			"card_id": 109901,
+			"name_en": "Hokko Tarumae"
+		},
+		{
+			"card_id": 106501,
+			"name_en": "Daitaku Helios"
+		},
+		{
+			"card_id": 102702,
+			"name_en": "Mejiro Ryan",
+			"version": "valentine"
+		},
+		{
+			"card_id": 103102,
+			"name_en": "Ines Fujin",
+			"version": "valentine"
+		},
+		{
+			"card_id": 104301,
+			"name_en": "Shinko Windy"
+		},
+		{
+			"card_id": 105701,
+			"name_en": "Mr. C.B."
+		},
+		{
+			"card_id": 106601,
+			"name_en": "Twin Turbo"
+		},
+		{
+			"card_id": 108501,
+			"name_en": "Daiichi Ruby"
+		},
+		{
+			"card_id": 108301,
+			"name_en": "Symboli Kris S"
+		},
+		{
+			"card_id": 106902,
+			"name_en": "Sakura Chiyono O",
+			"version": "ballroom"
+		},
+		{
+			"card_id": 107102,
+			"name_en": "Mejiro Ardan",
+			"version": "ballroom"
+		},
+		{
+			"card_id": 107601,
+			"name_en": "Sakura Laurel"
+		},
+		{
+			"card_id": 110501,
+			"name_en": "Neo Universe"
+		},
+		{
+			"card_id": 104102,
+			"name_en": "Sakura Bakushin O",
+			"version": "sports_fest"
+		},
+		{
+			"card_id": 106202,
+			"name_en": "Matikanetannhauser",
+			"version": "sports_fest"
+		},
+		{
+			"card_id": 110601,
+			"name_en": "Hishi Miracle"
+		},
+		{
+			"card_id": 108401,
+			"name_en": "Tanino Gimlet"
+		},
+		{
+			"card_id": 101202,
+			"name_en": "Hishi Amazon",
+			"version": "wedding"
+		},
+		{
+			"card_id": 105102,
+			"name_en": "Nishino Flower",
+			"version": "wedding"
+		},
+		{
+			"card_id": 105501,
+			"name_en": "Marvelous Sunday"
+		},
+		{
+			"card_id": 104802,
+			"name_en": "Tosen Jordan",
+			"version": "summer_trip"
+		},
+		{
+			"card_id": 105302,
+			"name_en": "Bamboo Memory",
+			"version": "summer_trip"
+		},
+		{
+			"card_id": 110401,
+			"name_en": "Katsuragi Ace"
+		},
+		{
+			"card_id": 107001,
+			"name_en": "Sirius Symboli"
+		},
+		{
+			"card_id": 100202,
+			"name_en": "Silence Suzuka",
+			"version": "summer"
+		},
+		{
+			"card_id": 103202,
+			"name_en": "Agnes Tachyon",
+			"version": "summer"
+		},
+		{
+			"card_id": 107701,
+			"name_en": "Narita Top Road"
+		},
+		{
+			"card_id": 100703,
+			"name_en": "Gold Ship",
+			"version": "larc"
+		},
+		{
+			"card_id": 106703,
+			"name_en": "Satono Diamond",
+			"version": "larc"
+		},
+		{
+			"card_id": 109301,
+			"name_en": "K.S.Miracle"
+		},
+		{
+			"card_id": 103602,
+			"name_en": "Air Shakur",
+			"version": "halloween"
+		},
+		{
+			"card_id": 108302,
+			"name_en": "Symboli Kris S",
+			"version": "halloween"
+		},
+		{
+			"card_id": 108601,
+			"name_en": "Mejiro Ramonu"
+		},
+		{
+			"card_id": 100303,
+			"name_en": "Tokai Teio",
+			"version": "fall_festival"
+		},
+		{
+			"card_id": 103902,
+			"name_en": "Kawakami Princess",
+			"version": "fall_festival"
+		},
+		{
+			"card_id": 110701,
+			"name_en": "Tap Dance City"
+		},
+		{
+			"card_id": 106402,
+			"name_en": "Mejiro Palmer",
+			"version": "christmas"
+		},
+		{
+			"card_id": 107402,
+			"name_en": "Mejiro Bright",
+			"version": "christmas"
+		},
+		{
+			"card_id": 108801,
+			"name_en": "Satono Crown"
+		},
+		{
+			"card_id": 108901,
+			"name_en": "Cheval Grand"
+		},
+		{
+			"card_id": 106803,
+			"name_en": "Kitasan Black",
+			"version": "anime_collab"
+		},
+		{
+			"card_id": 106003,
+			"name_en": "Nice Nature",
+			"version": "new_year"
+		},
+		{
+			"card_id": 109101,
+			"name_en": "Vivlos"
+		},
+		{
+			"card_id": 102502,
+			"name_en": "Manhattan Cafe",
+			"version": "valentine"
+		},
+		{
+			"card_id": 102902,
+			"name_en": "Yukino Bijin",
+			"version": "valentine"
+		},
+		{
+			"card_id": 105401,
+			"name_en": "Biko Pegasus"
+		},
+		{
+			"card_id": 106301,
+			"name_en": "Ikuno Dictus"
+		},
+		{
+			"card_id": 110801,
+			"name_en": "Duramente"
+		},
+		{
+			"card_id": 108001,
+			"name_en": "Transcend"
+		},
+		{
+			"card_id": 110901,
+			"name_en": "Rhein Kraft"
+		},
+		{
+			"card_id": 106502,
+			"name_en": "Daitaku Helios",
+			"version": "ballroom"
+		},
+		{
+			"card_id": 108502,
+			"name_en": "Daiichi Ruby",
+			"version": "ballroom"
+		},
+		{
+			"card_id": 103503,
+			"name_en": "Winning Ticket",
+			"version": "uaf"
+		},
+		{
+			"card_id": 110201,
+			"name_en": "Sounds of Earth"
+		},
+		{
+			"card_id": 104503,
+			"name_en": "Super Creek",
+			"version": "warfare"
+		},
+		{
+			"card_id": 107202,
+			"name_en": "Yaeno Muteki",
+			"version": "warfare"
+		},
+		{
+			"card_id": 103203,
+			"name_en": "Agnes Tachyon",
+			"version": "alt"
+		},
+		{
+			"card_id": 108201,
+			"name_en": "North Flight"
+		},
+		{
+			"card_id": 104402,
+			"name_en": "Sweep Tosho",
+			"version": "wedding"
+		},
+		{
+			"card_id": 106103,
+			"name_en": "King Halo",
+			"version": "wedding"
+		},
+		{
+			"card_id": 109401,
+			"name_en": "Jungle Pocket"
+		},
+		{
+			"card_id": 111901,
+			"name_en": "Dream Journey"
+		},
+		{
+			"card_id": 103003,
+			"name_en": "Rice Shower",
+			"version": "gff"
+		},
+		{
+			"card_id": 112001,
+			"name_en": "Calstone Light O"
+		},
+		{
+			"card_id": 103703,
+			"name_en": "Eishin Flash",
+			"version": "summer_trip"
+		},
+		{
+			"card_id": 109902,
+			"name_en": "Hokko Tarumae",
+			"version": "summer_trip"
+		},
+		{
+			"card_id": 111601,
+			"name_en": "Gentildonna"
+		},
+		{
+			"card_id": 104702,
+			"name_en": "Zenno Rob Roy",
+			"version": "autumn"
+		},
+		{
+			"card_id": 110502,
+			"name_en": "Neo Universe",
+			"version": "autumn"
+		},
+		{
+			"card_id": 111001,
+			"name_en": "Cesario"
+		},
+		{
+			"card_id": 112101,
+			"name_en": "Durandal"
+		},
+		{
+			"card_id": 102403,
+			"name_en": "Mayano Top Gun",
+			"version": "halloween"
+		},
+		{
+			"card_id": 104202,
+			"name_en": "Seeking the Pearl",
+			"version": "halloween"
+		},
+		{
+			"card_id": 112401,
+			"name_en": "Bubble Gum Fellow"
+		},
+		{
+			"card_id": 102303,
+			"name_en": "Biwa Hayahide",
+			"version": "mecha"
+		},
+		{
+			"card_id": 105003,
+			"name_en": "Narita Taishin",
+			"version": "mecha"
+		},
+		{
+			"card_id": 111101,
+			"name_en": "Air Messiah"
+		},
+		{
+			"card_id": 103302,
+			"name_en": "Admire Vega",
+			"version": "christmas"
+		},
+		{
+			"card_id": 107702,
+			"name_en": "Narita Top Road",
+			"version": "christmas"
+		},
+		{
+			"card_id": 111701,
+			"name_en": "Win Variation"
+		},
+		{
+			"card_id": 101103,
+			"name_en": "Grass Wonder",
+			"version": "new_year"
+		},
+		{
+			"card_id": 105702,
+			"name_en": "Mr. C.B.",
+			"version": "new_year"
+		},
+		{
+			"card_id": 110402,
+			"name_en": "Katsuragi Ace",
+			"version": "new_year"
+		},
+		{
+			"card_id": 100403,
+			"name_en": "Maruzensky",
+			"version": "new_year"
+		},
+		{
+			"card_id": 107901,
+			"name_en": "Furioso"
+		},
+		{
+			"card_id": 107802,
+			"name_en": "Yamanin Zephyr",
+			"version": "valentine"
+		},
+		{
+			"card_id": 108702,
+			"name_en": "Aston Machan",
+			"version": "valentine"
+		},
+		{
+			"card_id": 107301,
+			"name_en": "Tsurumaru Tsuyoshi"
+		},
+		{
+			"card_id": 111501,
+			"name_en": "Orfevre"
+		},
+		{
+			"card_id": 113101,
+			"name_en": "Gran Alegria"
+		},
+		{
+			"card_id": 109601,
+			"name_en": "No Reason"
+		},
+		{
+			"card_id": 108402,
+			"name_en": "Tanino Gimlet",
+			"version": "ballroom"
+		},
+		{
+			"card_id": 110702,
+			"name_en": "Tap Dance City",
+			"version": "ballroom"
+		},
+		{
+			"card_id": 107002,
+			"name_en": "Sirius Symboli",
+			"version": "twinkle"
+		},
+		{
+			"card_id": 112701,
+			"name_en": "Fenomeno"
+		},
+		{
+			"card_id": 104603,
+			"name_en": "Smart Falcon",
+			"version": "parade"
+		},
+		{
+			"card_id": 109802,
+			"name_en": "Copano Rickey",
+			"version": "parade"
+		},
+		{
+			"card_id": 109001,
+			"name_en": "Verxina"
+		},
+		{
+			"card_id": 113201,
+			"name_en": "Loves Only You"
+		},
+		{
+			"card_id": 108602,
+			"name_en": "Mejiro Ramonu",
+			"version": "wedding"
+		},
+		{
+			"card_id": 111002,
+			"name_en": "Cesario",
+			"version": "wedding"
+		},
+		{
+			"card_id": 113301,
+			"name_en": "Chrono Genesis"
+		},
+		{
+			"card_id": 104003,
+			"name_en": "Gold City",
+			"version": "island"
+		},
+		{
+			"card_id": 103103,
+			"name_en": "Ines Fujin",
+			"version": "island"
+		},
+		{
+			"card_id": 110902,
+			"name_en": "Rhein Kraft",
+			"version": "alt"
+		},
+		{
+			"card_id": 111301,
+			"name_en": "Fusaichi Pandora"
+		},
+		{
+			"card_id": 108802,
+			"name_en": "Satono Crown",
+			"version": "summer"
+		},
+		{
+			"card_id": 108902,
+			"name_en": "Cheval Grand",
+			"version": "summer"
+		},
+		{
+			"card_id": 109102,
+			"name_en": "Vivlos",
+			"version": "summer"
+		},
+		{
+			"card_id": 109701,
+			"name_en": "Still in Love"
+		},
+		{
+			"card_id": 109302,
+			"name_en": "K.S.Miracle",
+			"version": "alt"
+		},
+		{
+			"card_id": 110602,
+			"name_en": "Hishi Miracle",
+			"version": "alt"
+		},
+		{
+			"card_id": 108101,
+			"name_en": "Espoir City"
+		},
+		{
+			"card_id": 109501,
+			"name_en": "Believe"
+		},
+		{
+			"card_id": 102802,
+			"name_en": "Hishi Akebono",
+			"version": "halloween"
+		},
+		{
+			"card_id": 105502,
+			"name_en": "Marvelous Sunday",
+			"version": "halloween"
+		},
+		{
+			"card_id": 104803,
+			"name_en": "Tosen Jordan",
+			"version": "halloween"
+		},
+		{
+			"card_id": 109201,
+			"name_en": "Dantsu Flame"
+		},
+		{
+			"card_id": 108002,
+			"name_en": "Transcend",
+			"version": "onsen"
+		},
+		{
+			"card_id": 110002,
+			"name_en": "Wonder Acute",
+			"version": "onsen"
+		},
+		{
+			"card_id": 111401,
+			"name_en": "Buena Vista"
+		},
+		{
+			"card_id": 104902,
+			"name_en": "Nakayama Festa",
+			"version": "christmas"
+		},
+		{
+			"card_id": 111902,
+			"name_en": "Dream Journey",
+			"version": "christmas"
+		},
+		{
+			"card_id": 100603,
+			"name_en": "Oguri Cap",
+			"version": "anime_collab"
+		},
+		{
+			"card_id": 113501,
+			"name_en": "Stay Gold"
+		},
+		{
+			"card_id": 106302,
+			"name_en": "Ikuno Dictus",
+			"version": "new_year"
+		},
+		{
+			"card_id": 107602,
+			"name_en": "Sakura Laurel",
+			"version": "new_year"
+		},
+		{
+			"card_id": 112402,
+			"name_en": "Bubble Gum Fellow",
+			"version": "new_year"
+		},
+		{
+			"card_id": 113701,
+			"name_en": "Kiseki"
+		},
+		{
+			"card_id": 101003,
+			"name_en": "Taiki Shuttle",
+			"version": "valentine"
+		},
+		{
+			"card_id": 110202,
+			"name_en": "Sounds of Earth",
+			"version": "valentine"
+		},
+		{
+			"card_id": 110301,
+			"name_en": "Royce and Royce"
+		},
+		{
+			"card_id": 112901,
+			"name_en": "Almond Eye"
+		},
+		{
+			"card_id": 113202,
+			"name_en": "Loves Only You",
+			"version": "beyond_dreams"
+		}
+	],
+	"skills": [
+		{
+			"id": 110031,
+			"name_en": "Certain Victory",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110131,
+			"name_en": "Legacy of the Strong",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 10071,
+			"name_en": "Warning Shot!",
+			"iconid": 20013,
+			"rarity": 3
+		},
+		{
+			"id": 10081,
+			"name_en": "Xceleration",
+			"iconid": 20013,
+			"rarity": 3
+		},
+		{
+			"id": 10091,
+			"name_en": "Red Ace",
+			"iconid": 20013,
+			"rarity": 3
+		},
+		{
+			"id": 10111,
+			"name_en": "Focused Mind",
+			"iconid": 20013,
+			"rarity": 3
+		},
+		{
+			"id": 10141,
+			"name_en": "Corazón ☆ Ardiente",
+			"iconid": 20013,
+			"rarity": 3
+		},
+		{
+			"id": 10181,
+			"name_en": "Empress's Pride",
+			"iconid": 20013,
+			"rarity": 3
+		},
+		{
+			"id": 10241,
+			"name_en": "1st Place Kiss☆",
+			"iconid": 20013,
+			"rarity": 3
+		},
+		{
+			"id": 10271,
+			"name_en": "Feel the Burn!",
+			"iconid": 20043,
+			"rarity": 3
+		},
+		{
+			"id": 10321,
+			"name_en": "Introduction to Physiology",
+			"iconid": 20023,
+			"rarity": 3
+		},
+		{
+			"id": 10351,
+			"name_en": "V Is for Victory!",
+			"iconid": 20013,
+			"rarity": 3
+		},
+		{
+			"id": 10411,
+			"name_en": "Class Rep + Speed = Bakushin",
+			"iconid": 20013,
+			"rarity": 3
+		},
+		{
+			"id": 10451,
+			"name_en": "Clear Heart",
+			"iconid": 20023,
+			"rarity": 3
+		},
+		{
+			"id": 10521,
+			"name_en": "Super-Duper Stoked",
+			"iconid": 20023,
+			"rarity": 3
+		},
+		{
+			"id": 10561,
+			"name_en": "Luck Be with Me!",
+			"iconid": 20013,
+			"rarity": 3
+		},
+		{
+			"id": 10601,
+			"name_en": "I Can Win Sometimes, Right?",
+			"iconid": 20013,
+			"rarity": 3
+		},
+		{
+			"id": 10611,
+			"name_en": "Call Me King",
+			"iconid": 20013,
+			"rarity": 3
+		},
+		{
+			"id": 100011,
+			"name_en": "Shooting Star",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100021,
+			"name_en": "The View from the Lead Is Mine!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100031,
+			"name_en": "Sky-High Teio Step",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100041,
+			"name_en": "Red Shift/LP1211-M",
+			"iconid": 20043,
+			"rarity": 5
+		},
+		{
+			"id": 100061,
+			"name_en": "Triumphant Pulse",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100071,
+			"name_en": "Anchors Aweigh!",
+			"iconid": 20013,
+			"rarity": 4
+		},
+		{
+			"id": 100081,
+			"name_en": "Cut and Drive!",
+			"iconid": 20013,
+			"rarity": 4
+		},
+		{
+			"id": 100091,
+			"name_en": "Resplendent Red Ace",
+			"iconid": 20013,
+			"rarity": 4
+		},
+		{
+			"id": 100101,
+			"name_en": "Shooting for Victory!",
+			"iconid": 20043,
+			"rarity": 5
+		},
+		{
+			"id": 100111,
+			"name_en": "Where There's a Will, There's a Way",
+			"iconid": 20013,
+			"rarity": 4
+		},
+		{
+			"id": 100131,
+			"name_en": "The Duty of Dignity Calls",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100141,
+			"name_en": "Victoria por plancha ☆",
+			"iconid": 20013,
+			"rarity": 4
+		},
+		{
+			"id": 100151,
+			"name_en": "This Dance Is for Vittoria!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100171,
+			"name_en": "Behold Thine Emperor's Divine Might",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100181,
+			"name_en": "Blazing Pride",
+			"iconid": 20013,
+			"rarity": 4
+		},
+		{
+			"id": 100231,
+			"name_en": "∴win Q.E.D.",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100241,
+			"name_en": "Flashy☆Landing",
+			"iconid": 20013,
+			"rarity": 4
+		},
+		{
+			"id": 100261,
+			"name_en": "G00 1st. F∞;",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100271,
+			"name_en": "Let's Pump Some Iron!",
+			"iconid": 20043,
+			"rarity": 4
+		},
+		{
+			"id": 100301,
+			"name_en": "Blue Rose Closer",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100321,
+			"name_en": "U=ma2",
+			"iconid": 20023,
+			"rarity": 4
+		},
+		{
+			"id": 100351,
+			"name_en": "Our Ticket to Win!",
+			"iconid": 20013,
+			"rarity": 4
+		},
+		{
+			"id": 100411,
+			"name_en": "Genius x Bakushin = Victory",
+			"iconid": 20013,
+			"rarity": 4
+		},
+		{
+			"id": 100451,
+			"name_en": "Pure Heart",
+			"iconid": 20023,
+			"rarity": 4
+		},
+		{
+			"id": 100521,
+			"name_en": "Super-Duper Climax",
+			"iconid": 20023,
+			"rarity": 4
+		},
+		{
+			"id": 100561,
+			"name_en": "I See Victory in My Future!",
+			"iconid": 20013,
+			"rarity": 4
+		},
+		{
+			"id": 100601,
+			"name_en": "Just a Little Farther!",
+			"iconid": 20013,
+			"rarity": 4
+		},
+		{
+			"id": 100611,
+			"name_en": "Prideful King",
+			"iconid": 20013,
+			"rarity": 4
+		},
+		{
+			"id": 200011,
+			"name_en": "Right-Handed ◎",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200012,
+			"name_en": "Right-Handed ○",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200013,
+			"name_en": "Right-Handed ×",
+			"iconid": 10014,
+			"rarity": 1
+		},
+		{
+			"id": 200021,
+			"name_en": "Left-Handed ◎",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200022,
+			"name_en": "Left-Handed ○",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200023,
+			"name_en": "Left-Handed ×",
+			"iconid": 10014,
+			"rarity": 1
+		},
+		{
+			"id": 200031,
+			"name_en": "Tokyo Racecourse ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200032,
+			"name_en": "Tokyo Racecourse ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200033,
+			"name_en": "Tokyo Racecourse ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200041,
+			"name_en": "Nakayama Racecourse ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200042,
+			"name_en": "Nakayama Racecourse ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200043,
+			"name_en": "Nakayama Racecourse ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200051,
+			"name_en": "Hanshin Racecourse ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200052,
+			"name_en": "Hanshin Racecourse ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200053,
+			"name_en": "Hanshin Racecourse ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200061,
+			"name_en": "Kyoto Racecourse ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200062,
+			"name_en": "Kyoto Racecourse ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200063,
+			"name_en": "Kyoto Racecourse ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200071,
+			"name_en": "Chukyo Racecourse ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200072,
+			"name_en": "Chukyo Racecourse ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200073,
+			"name_en": "Chukyo Racecourse ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200081,
+			"name_en": "Sapporo Racecourse ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200082,
+			"name_en": "Sapporo Racecourse ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200083,
+			"name_en": "Sapporo Racecourse ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200091,
+			"name_en": "Hakodate Racecourse ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200092,
+			"name_en": "Hakodate Racecourse ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200093,
+			"name_en": "Hakodate Racecourse ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200101,
+			"name_en": "Fukushima Racecourse ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200102,
+			"name_en": "Fukushima Racecourse ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200103,
+			"name_en": "Fukushima Racecourse ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200111,
+			"name_en": "Niigata Racecourse ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200112,
+			"name_en": "Niigata Racecourse ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200113,
+			"name_en": "Niigata Racecourse ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200121,
+			"name_en": "Kokura Racecourse ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200122,
+			"name_en": "Kokura Racecourse ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200123,
+			"name_en": "Kokura Racecourse ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200131,
+			"name_en": "Standard Distance ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200132,
+			"name_en": "Standard Distance ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200133,
+			"name_en": "Standard Distance ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200141,
+			"name_en": "Non-Standard Distance ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200142,
+			"name_en": "Non-Standard Distance ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200143,
+			"name_en": "Non-Standard Distance ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200151,
+			"name_en": "Firm Conditions ◎",
+			"iconid": 10031,
+			"rarity": 1
+		},
+		{
+			"id": 200152,
+			"name_en": "Firm Conditions ○",
+			"iconid": 10031,
+			"rarity": 1
+		},
+		{
+			"id": 200153,
+			"name_en": "Firm Conditions ×",
+			"iconid": 10034,
+			"rarity": 1
+		},
+		{
+			"id": 200161,
+			"name_en": "Wet Conditions ◎",
+			"iconid": 10031,
+			"rarity": 1
+		},
+		{
+			"id": 200162,
+			"name_en": "Wet Conditions ○",
+			"iconid": 10031,
+			"rarity": 1
+		},
+		{
+			"id": 200163,
+			"name_en": "Wet Conditions ×",
+			"iconid": 10034,
+			"rarity": 1
+		},
+		{
+			"id": 200171,
+			"name_en": "Spring Runner ◎",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200172,
+			"name_en": "Spring Runner ○",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200173,
+			"name_en": "Spring Runner ×",
+			"iconid": 10014,
+			"rarity": 1
+		},
+		{
+			"id": 200181,
+			"name_en": "Summer Runner ◎",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200182,
+			"name_en": "Summer Runner ○",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200183,
+			"name_en": "Summer Runner ×",
+			"iconid": 10014,
+			"rarity": 1
+		},
+		{
+			"id": 200191,
+			"name_en": "Fall Runner ◎",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200192,
+			"name_en": "Fall Runner ○",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200193,
+			"name_en": "Fall Runner ×",
+			"iconid": 10014,
+			"rarity": 1
+		},
+		{
+			"id": 200201,
+			"name_en": "Winter Runner ◎",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200202,
+			"name_en": "Winter Runner ○",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200203,
+			"name_en": "Winter Runner ×",
+			"iconid": 10014,
+			"rarity": 1
+		},
+		{
+			"id": 200211,
+			"name_en": "Sunny Days ◎",
+			"iconid": 10041,
+			"rarity": 1
+		},
+		{
+			"id": 200212,
+			"name_en": "Sunny Days ○",
+			"iconid": 10041,
+			"rarity": 1
+		},
+		{
+			"id": 200221,
+			"name_en": "Cloudy Days ◎",
+			"iconid": 10041,
+			"rarity": 1
+		},
+		{
+			"id": 200222,
+			"name_en": "Cloudy Days ○",
+			"iconid": 10041,
+			"rarity": 1
+		},
+		{
+			"id": 200231,
+			"name_en": "Rainy Days ◎",
+			"iconid": 10041,
+			"rarity": 1
+		},
+		{
+			"id": 200232,
+			"name_en": "Rainy Days ○",
+			"iconid": 10041,
+			"rarity": 1
+		},
+		{
+			"id": 200233,
+			"name_en": "Rainy Days ×",
+			"iconid": 10044,
+			"rarity": 1
+		},
+		{
+			"id": 200241,
+			"name_en": "Snowy Days ◎",
+			"iconid": 10041,
+			"rarity": 1
+		},
+		{
+			"id": 200242,
+			"name_en": "Snowy Days ○",
+			"iconid": 10041,
+			"rarity": 1
+		},
+		{
+			"id": 200251,
+			"name_en": "Inner Post Proficiency ◎",
+			"iconid": 10051,
+			"rarity": 1
+		},
+		{
+			"id": 200252,
+			"name_en": "Inner Post Proficiency ○",
+			"iconid": 10051,
+			"rarity": 1
+		},
+		{
+			"id": 200253,
+			"name_en": "Inner Post Averseness",
+			"iconid": 10054,
+			"rarity": 1
+		},
+		{
+			"id": 200261,
+			"name_en": "Outer Post Proficiency ◎",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200262,
+			"name_en": "Outer Post Proficiency ○",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200263,
+			"name_en": "Outer Post Averseness",
+			"iconid": 10014,
+			"rarity": 1
+		},
+		{
+			"id": 200271,
+			"name_en": "Maverick ◎",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200272,
+			"name_en": "Maverick ○",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200281,
+			"name_en": "Competitive Spirit ◎",
+			"iconid": 10031,
+			"rarity": 1
+		},
+		{
+			"id": 200282,
+			"name_en": "Competitive Spirit ○",
+			"iconid": 10031,
+			"rarity": 1
+		},
+		{
+			"id": 200283,
+			"name_en": "Wallflower",
+			"iconid": 10034,
+			"rarity": 1
+		},
+		{
+			"id": 200291,
+			"name_en": "Target in Sight ◎",
+			"iconid": 10041,
+			"rarity": 1
+		},
+		{
+			"id": 200292,
+			"name_en": "Target in Sight ○",
+			"iconid": 10041,
+			"rarity": 1
+		},
+		{
+			"id": 200301,
+			"name_en": "Long Shot ◎",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200302,
+			"name_en": "Long Shot ○",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 200311,
+			"name_en": "G1 Averseness",
+			"iconid": 10014,
+			"rarity": 1
+		},
+		{
+			"id": 200321,
+			"name_en": "Paddock Fright",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200331,
+			"name_en": "Professor of Curvature",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200332,
+			"name_en": "Corner Adept ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200333,
+			"name_en": "Corner Adept ×",
+			"iconid": 20014,
+			"rarity": 1
+		},
+		{
+			"id": 200341,
+			"name_en": "Corner Connoisseur",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 200342,
+			"name_en": "Corner Acceleration ○",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 200343,
+			"name_en": "Corner Acceleration ×",
+			"iconid": 20044,
+			"rarity": 1
+		},
+		{
+			"id": 200351,
+			"name_en": "Swinging Maestro",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 200352,
+			"name_en": "Corner Recovery ○",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200353,
+			"name_en": "Corner Recovery ×",
+			"iconid": 20024,
+			"rarity": 1
+		},
+		{
+			"id": 200361,
+			"name_en": "Beeline Burst",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200362,
+			"name_en": "Straightaway Adept",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200371,
+			"name_en": "Rushing Gale!",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 200372,
+			"name_en": "Straightaway Acceleration",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 200381,
+			"name_en": "Breath of Fresh Air",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 200382,
+			"name_en": "Straightaway Recovery",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200391,
+			"name_en": "Ramp Revulsion",
+			"iconid": 20024,
+			"rarity": 1
+		},
+		{
+			"id": 200401,
+			"name_en": "Packphobia",
+			"iconid": 20024,
+			"rarity": 1
+		},
+		{
+			"id": 200411,
+			"name_en": "Defeatist",
+			"iconid": 20014,
+			"rarity": 1
+		},
+		{
+			"id": 200421,
+			"name_en": "Reckless",
+			"iconid": 20014,
+			"rarity": 1
+		},
+		{
+			"id": 200431,
+			"name_en": "Concentration",
+			"iconid": 20062,
+			"rarity": 2
+		},
+		{
+			"id": 200432,
+			"name_en": "Focus",
+			"iconid": 20061,
+			"rarity": 1
+		},
+		{
+			"id": 200433,
+			"name_en": "Gatekept",
+			"iconid": 20064,
+			"rarity": 1
+		},
+		{
+			"id": 200441,
+			"name_en": "Iron Will",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 200442,
+			"name_en": "Lay Low",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200451,
+			"name_en": "Center Stage",
+			"iconid": 20052,
+			"rarity": 2
+		},
+		{
+			"id": 200452,
+			"name_en": "Prudent Positioning",
+			"iconid": 20051,
+			"rarity": 1
+		},
+		{
+			"id": 200461,
+			"name_en": "It's On!",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200462,
+			"name_en": "Ramp Up",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200471,
+			"name_en": "Indomitable",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 200472,
+			"name_en": "Pace Strategy",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200481,
+			"name_en": "Unruffled",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 200482,
+			"name_en": "Calm in a Crowd",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200491,
+			"name_en": "No Stopping Me!",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 200492,
+			"name_en": "Nimble Navigator",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 200501,
+			"name_en": "Lane Legerdemain",
+			"iconid": 20052,
+			"rarity": 2
+		},
+		{
+			"id": 200502,
+			"name_en": "Go with the Flow",
+			"iconid": 20051,
+			"rarity": 1
+		},
+		{
+			"id": 200511,
+			"name_en": "In Body and Mind",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200512,
+			"name_en": "Homestretch Haste",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200521,
+			"name_en": "Running Idle",
+			"iconid": 20024,
+			"rarity": 1
+		},
+		{
+			"id": 200531,
+			"name_en": "Taking the Lead",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 200532,
+			"name_en": "Early Lead",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 200541,
+			"name_en": "Escape Artist",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200542,
+			"name_en": "Fast-Paced",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200551,
+			"name_en": "Unrestrained",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 200552,
+			"name_en": "Final Push",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 200561,
+			"name_en": "Calm and Collected",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 200562,
+			"name_en": "Stamina to Spare",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200571,
+			"name_en": "Race Planner",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 200572,
+			"name_en": "Preferred Position",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200581,
+			"name_en": "Speed Star",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200582,
+			"name_en": "Prepared to Pass",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200591,
+			"name_en": "Fast & Furious",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200592,
+			"name_en": "Position Pilfer",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200601,
+			"name_en": "On Your Left!",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 200602,
+			"name_en": "Slick Surge",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 200611,
+			"name_en": "Rising Dragon",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200612,
+			"name_en": "Outer Swell",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200621,
+			"name_en": "Sleeping Lion",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 200622,
+			"name_en": "Standing By",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200631,
+			"name_en": "Sturm und Drang",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200632,
+			"name_en": "Masterful Gambit",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200641,
+			"name_en": "Encroaching Shadow",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 200642,
+			"name_en": "Straightaway Spurt",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 200651,
+			"name_en": "Turbo Sprint",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 200652,
+			"name_en": "Sprinting Gear",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 200662,
+			"name_en": "Wait-and-See",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200671,
+			"name_en": "Blinding Flash",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200672,
+			"name_en": "Gap Closer",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200681,
+			"name_en": "Mile Maven",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200682,
+			"name_en": "Productive Plan",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200691,
+			"name_en": "Keen Eye",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 200692,
+			"name_en": "Watchful Eye",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200701,
+			"name_en": "Furious Feat",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 200702,
+			"name_en": "Updrafters",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 200711,
+			"name_en": "Trackblazer",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 200712,
+			"name_en": "Rosy Outlook",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200721,
+			"name_en": "Killer Tunes",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200722,
+			"name_en": "Up-Tempo",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200731,
+			"name_en": "Unyielding",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200732,
+			"name_en": "Steadfast",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200741,
+			"name_en": "Cooldown",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 200742,
+			"name_en": "Deep Breaths",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200751,
+			"name_en": "Innate Experience",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200752,
+			"name_en": "Inside Scoop",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200761,
+			"name_en": "Adrenaline Rush",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 200762,
+			"name_en": "Extra Tank",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 200771,
+			"name_en": "Trick (Front)",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 200781,
+			"name_en": "Trick (Rear)",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 200791,
+			"name_en": "Frenzied Front Runners",
+			"iconid": 30041,
+			"rarity": 1
+		},
+		{
+			"id": 200801,
+			"name_en": "Frenzied Pace Chasers",
+			"iconid": 30041,
+			"rarity": 1
+		},
+		{
+			"id": 200811,
+			"name_en": "Frenzied Late Surgers",
+			"iconid": 30041,
+			"rarity": 1
+		},
+		{
+			"id": 200821,
+			"name_en": "Frenzied End Closers",
+			"iconid": 30041,
+			"rarity": 1
+		},
+		{
+			"id": 200831,
+			"name_en": "Subdued Front Runners",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 200841,
+			"name_en": "Flustered Front Runners",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 200851,
+			"name_en": "Hesitant Front Runners",
+			"iconid": 30011,
+			"rarity": 1
+		},
+		{
+			"id": 200861,
+			"name_en": "Subdued Pace Chasers",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 200871,
+			"name_en": "Flustered Pace Chasers",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 200881,
+			"name_en": "Hesitant Pace Chasers",
+			"iconid": 30011,
+			"rarity": 1
+		},
+		{
+			"id": 200891,
+			"name_en": "Subdued Late Surgers",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 200901,
+			"name_en": "Flustered Late Surgers",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 200911,
+			"name_en": "Hesitant Late Surgers",
+			"iconid": 30011,
+			"rarity": 1
+		},
+		{
+			"id": 200921,
+			"name_en": "Subdued End Closers",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 200931,
+			"name_en": "Flustered End Closers",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 200941,
+			"name_en": "Hesitant End Closers",
+			"iconid": 30011,
+			"rarity": 1
+		},
+		{
+			"id": 200951,
+			"name_en": "Oi Racecourse ◎",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200952,
+			"name_en": "Oi Racecourse ○",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 200953,
+			"name_en": "Oi Racecourse ×",
+			"iconid": 10024,
+			"rarity": 1
+		},
+		{
+			"id": 200961,
+			"name_en": "Sprint Straightaways ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200962,
+			"name_en": "Sprint Straightaways ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200971,
+			"name_en": "Sprint Corners ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200972,
+			"name_en": "Sprint Corners ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200981,
+			"name_en": "Staggering Lead",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 200982,
+			"name_en": "Huge Lead",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 200991,
+			"name_en": "Plan X",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 200992,
+			"name_en": "Countermeasure",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 201001,
+			"name_en": "Perfect Prep!",
+			"iconid": 20052,
+			"rarity": 2
+		},
+		{
+			"id": 201002,
+			"name_en": "Meticulous Measures",
+			"iconid": 20051,
+			"rarity": 1
+		},
+		{
+			"id": 201012,
+			"name_en": "Intimidate",
+			"iconid": 30011,
+			"rarity": 1
+		},
+		{
+			"id": 201021,
+			"name_en": "You've Got No Shot",
+			"iconid": 30052,
+			"rarity": 2
+		},
+		{
+			"id": 201022,
+			"name_en": "Stop Right There!",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 201031,
+			"name_en": "Mile Straightaways ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201032,
+			"name_en": "Mile Straightaways ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201041,
+			"name_en": "Mile Corners ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201042,
+			"name_en": "Mile Corners ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201051,
+			"name_en": "Changing Gears",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 201052,
+			"name_en": "Shifting Gears",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201061,
+			"name_en": "Step on the Gas!",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 201062,
+			"name_en": "Acceleration",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 201071,
+			"name_en": "Big-Sisterly",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 201072,
+			"name_en": "Unyielding Spirit",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201081,
+			"name_en": "Greed for Speed",
+			"iconid": 30012,
+			"rarity": 2
+		},
+		{
+			"id": 201082,
+			"name_en": "Speed Eater",
+			"iconid": 30011,
+			"rarity": 1
+		},
+		{
+			"id": 201091,
+			"name_en": "Battle Formation",
+			"iconid": 30022,
+			"rarity": 2
+		},
+		{
+			"id": 201092,
+			"name_en": "Opening Gambit",
+			"iconid": 30021,
+			"rarity": 1
+		},
+		{
+			"id": 201101,
+			"name_en": "Medium Straightaways ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201102,
+			"name_en": "Medium Straightaways ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201111,
+			"name_en": "Medium Corners ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201112,
+			"name_en": "Medium Corners ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201121,
+			"name_en": "Clairvoyance",
+			"iconid": 20092,
+			"rarity": 2
+		},
+		{
+			"id": 201122,
+			"name_en": "Hawkeye",
+			"iconid": 20091,
+			"rarity": 1
+		},
+		{
+			"id": 201131,
+			"name_en": "Lightning Step",
+			"iconid": 20052,
+			"rarity": 2
+		},
+		{
+			"id": 201132,
+			"name_en": "Thunderbolt Step",
+			"iconid": 20051,
+			"rarity": 1
+		},
+		{
+			"id": 201141,
+			"name_en": "Miraculous Step",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 201142,
+			"name_en": "Soft Step",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 201151,
+			"name_en": "Dominator",
+			"iconid": 30012,
+			"rarity": 2
+		},
+		{
+			"id": 201152,
+			"name_en": "Tether",
+			"iconid": 30011,
+			"rarity": 1
+		},
+		{
+			"id": 201161,
+			"name_en": "Mystifying Murmur",
+			"iconid": 30052,
+			"rarity": 2
+		},
+		{
+			"id": 201162,
+			"name_en": "Murmur",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 201171,
+			"name_en": "Long Straightaways ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201172,
+			"name_en": "Long Straightaways ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201181,
+			"name_en": "Long Corners ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201182,
+			"name_en": "Long Corners ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201191,
+			"name_en": "Vanguard Spirit",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 201192,
+			"name_en": "Keeping the Lead",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201202,
+			"name_en": "Passing Pro",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 201211,
+			"name_en": "Overwhelming Pressure",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 201212,
+			"name_en": "Pressure",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201221,
+			"name_en": "Stamina Siphon",
+			"iconid": 30052,
+			"rarity": 2
+		},
+		{
+			"id": 201222,
+			"name_en": "Stamina Eater",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 201231,
+			"name_en": "Illusionist",
+			"iconid": 30072,
+			"rarity": 2
+		},
+		{
+			"id": 201232,
+			"name_en": "Smoke Screen",
+			"iconid": 30071,
+			"rarity": 1
+		},
+		{
+			"id": 201241,
+			"name_en": "Front Runner Straightaways ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201242,
+			"name_en": "Front Runner Straightaways ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201251,
+			"name_en": "Front Runner Corners ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201252,
+			"name_en": "Front Runner Corners ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201262,
+			"name_en": "Dodging Danger",
+			"iconid": 20051,
+			"rarity": 1
+		},
+		{
+			"id": 201272,
+			"name_en": "Leader's Pride",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201281,
+			"name_en": "Restless",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 201282,
+			"name_en": "Moxie",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 201291,
+			"name_en": "Reignition",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 201292,
+			"name_en": "Second Wind",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 201302,
+			"name_en": "Restart",
+			"iconid": 30021,
+			"rarity": 1
+		},
+		{
+			"id": 201311,
+			"name_en": "Pace Chaser Straightaways ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201312,
+			"name_en": "Pace Chaser Straightaways ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201321,
+			"name_en": "Pace Chaser Corners ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201322,
+			"name_en": "Pace Chaser Corners ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201331,
+			"name_en": "Technician",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 201332,
+			"name_en": "Shrewd Step",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 201341,
+			"name_en": "Determined Descent",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 201342,
+			"name_en": "Straight Descent",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 201351,
+			"name_en": "Gourmand",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 201352,
+			"name_en": "Hydrate",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 201361,
+			"name_en": "Shatterproof",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 201362,
+			"name_en": "Tactical Tweak",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 201371,
+			"name_en": "Dazzling Disorientation",
+			"iconid": 30072,
+			"rarity": 2
+		},
+		{
+			"id": 201372,
+			"name_en": "Disorient",
+			"iconid": 30071,
+			"rarity": 1
+		},
+		{
+			"id": 201381,
+			"name_en": "Late Surger Straightaways ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201382,
+			"name_en": "Late Surger Straightaways ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201391,
+			"name_en": "Late Surger Corners ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201392,
+			"name_en": "Late Surger Corners ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201401,
+			"name_en": "Hard Worker",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 201402,
+			"name_en": "Fighter",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 201411,
+			"name_en": "15,000,000 CC",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 201412,
+			"name_en": "1,500,000 CC",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201421,
+			"name_en": "Relax",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 201422,
+			"name_en": "A Small Breather",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 201431,
+			"name_en": "The Bigger Picture",
+			"iconid": 20092,
+			"rarity": 2
+		},
+		{
+			"id": 201432,
+			"name_en": "Studious",
+			"iconid": 20091,
+			"rarity": 1
+		},
+		{
+			"id": 201441,
+			"name_en": "All-Seeing Eyes",
+			"iconid": 30052,
+			"rarity": 2
+		},
+		{
+			"id": 201442,
+			"name_en": "Sharp Gaze",
+			"iconid": 30051,
+			"rarity": 1
+		},
+		{
+			"id": 201451,
+			"name_en": "End Closer Straightaways ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201452,
+			"name_en": "End Closer Straightaways ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201461,
+			"name_en": "End Closer Corners ◎",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201462,
+			"name_en": "End Closer Corners ○",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201471,
+			"name_en": "The Coast Is Clear!",
+			"iconid": 20092,
+			"rarity": 2
+		},
+		{
+			"id": 201472,
+			"name_en": "I Can See Right Through You",
+			"iconid": 20091,
+			"rarity": 1
+		},
+		{
+			"id": 201481,
+			"name_en": "Go-Home Specialist",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 201482,
+			"name_en": "After-School Stroll",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 201491,
+			"name_en": "Serenity",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 201492,
+			"name_en": "Levelheaded",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 201501,
+			"name_en": "Crusader",
+			"iconid": 20092,
+			"rarity": 2
+		},
+		{
+			"id": 201502,
+			"name_en": "Strategist",
+			"iconid": 20091,
+			"rarity": 1
+		},
+		{
+			"id": 201511,
+			"name_en": "Petrifying Gaze",
+			"iconid": 30012,
+			"rarity": 2
+		},
+		{
+			"id": 201512,
+			"name_en": "Intense Gaze",
+			"iconid": 30011,
+			"rarity": 1
+		},
+		{
+			"id": 201521,
+			"name_en": "Front Runner Savvy ◎",
+			"iconid": 10051,
+			"rarity": 1
+		},
+		{
+			"id": 201522,
+			"name_en": "Front Runner Savvy ○",
+			"iconid": 10051,
+			"rarity": 1
+		},
+		{
+			"id": 201531,
+			"name_en": "Pace Chaser Savvy ◎",
+			"iconid": 10051,
+			"rarity": 1
+		},
+		{
+			"id": 201532,
+			"name_en": "Pace Chaser Savvy ○",
+			"iconid": 10051,
+			"rarity": 1
+		},
+		{
+			"id": 201541,
+			"name_en": "Late Surger Savvy ◎",
+			"iconid": 10051,
+			"rarity": 1
+		},
+		{
+			"id": 201542,
+			"name_en": "Late Surger Savvy ○",
+			"iconid": 10051,
+			"rarity": 1
+		},
+		{
+			"id": 201551,
+			"name_en": "End Closer Savvy ◎",
+			"iconid": 10051,
+			"rarity": 1
+		},
+		{
+			"id": 201552,
+			"name_en": "End Closer Savvy ○",
+			"iconid": 10051,
+			"rarity": 1
+		},
+		{
+			"id": 201561,
+			"name_en": "Super Lucky Seven",
+			"iconid": 10062,
+			"rarity": 2
+		},
+		{
+			"id": 201562,
+			"name_en": "Lucky Seven",
+			"iconid": 10061,
+			"rarity": 1
+		},
+		{
+			"id": 201571,
+			"name_en": "Triple 7s",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 201581,
+			"name_en": "Highlander",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 201591,
+			"name_en": "Uma Stan",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201601,
+			"name_en": "Groundwork",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 201611,
+			"name_en": "Tail Held High",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201621,
+			"name_en": "Shake It Out",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 201631,
+			"name_en": "Sympathy",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 201641,
+			"name_en": "Lone Wolf",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 201651,
+			"name_en": "Slipstream",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 201661,
+			"name_en": "Playtime's Over!",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 100381,
+			"name_en": "#LookatCurren",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 201011,
+			"name_en": "Adored by All",
+			"iconid": 30012,
+			"rarity": 2
+		},
+		{
+			"id": 100501,
+			"name_en": "Nemesis",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100461,
+			"name_en": "SPARKLY☆STARDOM",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 201671,
+			"name_en": "Trending in the Charts!",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 201672,
+			"name_en": "Top Pick",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 100161,
+			"name_en": "Shadow Break",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110181,
+			"name_en": "Eternal Moments",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110241,
+			"name_en": "Flowery☆Maneuver",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 201261,
+			"name_en": "Sixth Sense",
+			"iconid": 20052,
+			"rarity": 2
+		},
+		{
+			"id": 100201,
+			"name_en": "Angling and Scheming",
+			"iconid": 20043,
+			"rarity": 5
+		},
+		{
+			"id": 100121,
+			"name_en": "You and Me! One-on-One!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110111,
+			"name_en": "Superior Heal",
+			"iconid": 20023,
+			"rarity": 5
+		},
+		{
+			"id": 110141,
+			"name_en": "Condor's Fury",
+			"iconid": 20043,
+			"rarity": 5
+		},
+		{
+			"id": 100051,
+			"name_en": "Lights of Vaudeville",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100401,
+			"name_en": "KEEP IT REAL.",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110011,
+			"name_en": "Dazzl'n ♪ Diver",
+			"iconid": 20023,
+			"rarity": 5
+		},
+		{
+			"id": 110041,
+			"name_en": "A Kiss for Courage",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100581,
+			"name_en": "I Never Goof Up!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100371,
+			"name_en": "Schwarzes Schwert",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110561,
+			"name_en": "Bountiful Harvest",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 210011,
+			"name_en": "Burning Spirit SPD",
+			"iconid": 20102,
+			"rarity": 2
+		},
+		{
+			"id": 210012,
+			"name_en": "Ignited Spirit SPD",
+			"iconid": 20101,
+			"rarity": 1
+		},
+		{
+			"id": 210021,
+			"name_en": "Burning Spirit STA",
+			"iconid": 20112,
+			"rarity": 2
+		},
+		{
+			"id": 210022,
+			"name_en": "Ignited Spirit STA",
+			"iconid": 20111,
+			"rarity": 1
+		},
+		{
+			"id": 210031,
+			"name_en": "Burning Spirit PWR",
+			"iconid": 20122,
+			"rarity": 2
+		},
+		{
+			"id": 210032,
+			"name_en": "Ignited Spirit PWR",
+			"iconid": 20121,
+			"rarity": 1
+		},
+		{
+			"id": 210041,
+			"name_en": "Burning Spirit GUTS",
+			"iconid": 20102,
+			"rarity": 2
+		},
+		{
+			"id": 210042,
+			"name_en": "Ignited Spirit GUTS",
+			"iconid": 20101,
+			"rarity": 1
+		},
+		{
+			"id": 210051,
+			"name_en": "Burning Spirit WIT",
+			"iconid": 20132,
+			"rarity": 2
+		},
+		{
+			"id": 210052,
+			"name_en": "Ignited Spirit WIT",
+			"iconid": 20131,
+			"rarity": 1
+		},
+		{
+			"id": 100281,
+			"name_en": "YUMMY☆SPEED!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100191,
+			"name_en": "OMG! (ﾟ∀ﾟ)  The Final Sprint! ☆",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 201592,
+			"name_en": "Superstan",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 201681,
+			"name_en": "Lead the Charge!",
+			"iconid": 20052,
+			"rarity": 2
+		},
+		{
+			"id": 201682,
+			"name_en": "Forward, March!",
+			"iconid": 20051,
+			"rarity": 1
+		},
+		{
+			"id": 110301,
+			"name_en": "Every Rose Has Its Fangs",
+			"iconid": 20023,
+			"rarity": 5
+		},
+		{
+			"id": 110451,
+			"name_en": "Give Mummy a Hug ♡",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 200772,
+			"name_en": "Tantalizing Trick",
+			"iconid": 30052,
+			"rarity": 2
+		},
+		{
+			"id": 201691,
+			"name_en": "Lie in Wait",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 201692,
+			"name_en": "Be Still",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 300011,
+			"name_en": "Unquenched Thirst",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 300021,
+			"name_en": "Unchanging",
+			"iconid": 10012,
+			"rarity": 2
+		},
+		{
+			"id": 100391,
+			"name_en": "A Princess Must Seize Victory!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 100251,
+			"name_en": "Chasing After You",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 201701,
+			"name_en": "Come What May",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 201702,
+			"name_en": "All I've Got",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 110171,
+			"name_en": "Arrows Whistle, Shadows Disperse",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110401,
+			"name_en": "Dancing in the Leaves",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 200194,
+			"name_en": "Fall Frenzy",
+			"iconid": 10012,
+			"rarity": 2
+		},
+		{
+			"id": 100481,
+			"name_en": "Pop & Polish",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 201801,
+			"name_en": "♡ 3D Nail Art",
+			"iconid": 10014,
+			"rarity": 1
+		},
+		{
+			"id": 100591,
+			"name_en": "Moving Past, and Beyond",
+			"iconid": 20043,
+			"rarity": 5
+		},
+		{
+			"id": 200064,
+			"name_en": "Yodo Invicta",
+			"iconid": 10022,
+			"rarity": 2
+		},
+		{
+			"id": 110061,
+			"name_en": "Festive Miracle",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110231,
+			"name_en": "Presents from X",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 201201,
+			"name_en": "VIP Pass",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 201902,
+			"name_en": "Head-On",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 100221,
+			"name_en": "Fairy Tale",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 202002,
+			"name_en": "Familiar Ground",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 100211,
+			"name_en": "White Lightning Comin' Through!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 201612,
+			"name_en": "Tail Nine",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 300031,
+			"name_en": "Towards the Scenery I Seek",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 300041,
+			"name_en": "Creeping Anxiety",
+			"iconid": 10014,
+			"rarity": 1
+		},
+		{
+			"id": 300051,
+			"name_en": "Blatant Fear",
+			"iconid": 20015,
+			"rarity": 2
+		},
+		{
+			"id": 300061,
+			"name_en": "Dream Run",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 300071,
+			"name_en": "Show Me What Lies Beyond!",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 300081,
+			"name_en": "Hoiya! Have a Good Run!",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 300091,
+			"name_en": "As a Friend and Rival",
+			"iconid": 10031,
+			"rarity": 1
+		},
+		{
+			"id": 300101,
+			"name_en": "Cheers of a Fellow Dreamer",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 110151,
+			"name_en": "Barcarole of Blessings",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110521,
+			"name_en": "114th Time's the Charm",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 202011,
+			"name_en": "Headliner",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202012,
+			"name_en": "Feature Act",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 202021,
+			"name_en": "Daring Strike",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202022,
+			"name_en": "Early Start",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 202031,
+			"name_en": "Nothing Ventured",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202032,
+			"name_en": "Risky Business",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 1000011,
+			"name_en": "Carnival Bonus",
+			"iconid": 1010011,
+			"rarity": 1
+		},
+		{
+			"id": 100691,
+			"name_en": "Ambition to Surpass the Sakura",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 200174,
+			"name_en": "Spring Spectacle",
+			"iconid": 10012,
+			"rarity": 2
+		},
+		{
+			"id": 100711,
+			"name_en": "A Lifelong Dream, A Moment's Flight",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110261,
+			"name_en": "Operation Cacao",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110371,
+			"name_en": "Guten Appetit ♪",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 201103,
+			"name_en": "Flash Forward",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202041,
+			"name_en": "In High Spirits",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202042,
+			"name_en": "Light as a Feather",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 100331,
+			"name_en": "Shooting Star of Dioskouroi",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 10621,
+			"name_en": "Ready, Go!",
+			"iconid": 20023,
+			"rarity": 3
+		},
+		{
+			"id": 100621,
+			"name_en": "Go, Go, Mun!",
+			"iconid": 20023,
+			"rarity": 4
+		},
+		{
+			"id": 100681,
+			"name_en": "Victory Cheer!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 200154,
+			"name_en": "Firm Course Menace",
+			"iconid": 10032,
+			"rarity": 2
+		},
+		{
+			"id": 201173,
+			"name_en": "Blast Forward",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202051,
+			"name_en": "Runaway",
+			"iconid": 40012,
+			"rarity": 2
+		},
+		{
+			"id": 210061,
+			"name_en": "Radiant Star",
+			"iconid": 20142,
+			"rarity": 2
+		},
+		{
+			"id": 210062,
+			"name_en": "Glittering Star",
+			"iconid": 20141,
+			"rarity": 1
+		},
+		{
+			"id": 100671,
+			"name_en": "Eternal Encompassing Shine",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 200014,
+			"name_en": "Right-Handed Demon",
+			"iconid": 10012,
+			"rarity": 2
+		},
+		{
+			"id": 100741,
+			"name_en": "Lovely Spring Breeze",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 202061,
+			"name_en": "Best in Japan",
+			"iconid": 2010010,
+			"rarity": 2
+		},
+		{
+			"id": 202071,
+			"name_en": "Of Calm Mind",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 202072,
+			"name_en": "Free-Spirited",
+			"iconid": 20021,
+			"rarity": 1
+		},
+		{
+			"id": 300111,
+			"name_en": "Chin Up, Derby Umamusume!",
+			"iconid": 10011,
+			"rarity": 1
+		},
+		{
+			"id": 300121,
+			"name_en": "For the Team",
+			"iconid": 10022,
+			"rarity": 2
+		},
+		{
+			"id": 110051,
+			"name_en": "Ravissant",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110201,
+			"name_en": "Break It Down!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 201271,
+			"name_en": "Top Runner",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202081,
+			"name_en": "From the Brink",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 202082,
+			"name_en": "Take the Chance",
+			"iconid": 20041,
+			"rarity": 1
+		},
+		{
+			"id": 202091,
+			"name_en": "Burning Soul",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202092,
+			"name_en": "Fighting Spirit",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 202101,
+			"name_en": "Elated",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202102,
+			"name_en": "Eager",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 100511,
+			"name_en": "Budding Blossom",
+			"iconid": 20043,
+			"rarity": 5
+		},
+		{
+			"id": 201901,
+			"name_en": "Neck and Neck",
+			"iconid": 20042,
+			"rarity": 2
+		},
+		{
+			"id": 1000012,
+			"name_en": "Carnival Bonus",
+			"iconid": 1010011,
+			"rarity": 1
+		},
+		{
+			"id": 100721,
+			"name_en": "Peerless Dance of Flowering Flames",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110601,
+			"name_en": "Go☆Go☆Goal!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110611,
+			"name_en": "Louder! Tracen Cheer!",
+			"iconid": 20043,
+			"rarity": 5
+		},
+		{
+			"id": 202111,
+			"name_en": "Full of Vigor",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202112,
+			"name_en": "Pumped",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 202121,
+			"name_en": "Dauntless",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202122,
+			"name_en": "Fearless",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 1100011,
+			"name_en": "Feelin' a Bit Silly",
+			"iconid": 20064,
+			"rarity": 1
+		},
+		{
+			"id": 100311,
+			"name_en": "All Charged! It's Go Time!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 202131,
+			"name_en": "Wild Wind",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202132,
+			"name_en": "With All My Soul",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 100641,
+			"name_en": "Keep Pushing Ahead",
+			"iconid": 20023,
+			"rarity": 5
+		},
+		{
+			"id": 201662,
+			"name_en": "See Ya Later!",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 110221,
+			"name_en": "Best Day Ever",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110381,
+			"name_en": "One True Color",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 202151,
+			"name_en": "Keep Going!",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202152,
+			"name_en": "Full Throttle",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 100341,
+			"name_en": "Now We're Cruisin'!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 202001,
+			"name_en": "Master of the Sands",
+			"iconid": 20022,
+			"rarity": 2
+		},
+		{
+			"id": 100441,
+			"name_en": "Victory belongs to me—Strelitzia! ☆",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 202141,
+			"name_en": "You're Not the Boss of Me!",
+			"iconid": 20064,
+			"rarity": 1
+		},
+		{
+			"id": 202161,
+			"name_en": "Restraint",
+			"iconid": 10051,
+			"rarity": 1
+		},
+		{
+			"id": 110101,
+			"name_en": "Joyful Voyage!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 110591,
+			"name_en": "Wherever This Wonder Leads",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 202172,
+			"name_en": "Downhill Speedster",
+			"iconid": 20011,
+			"rarity": 1
+		},
+		{
+			"id": 100361,
+			"name_en": "trigger:BEAT",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 201453,
+			"name_en": "Moonlit Flash",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 202181,
+			"name_en": "99 Problems",
+			"iconid": 10044,
+			"rarity": 1
+		},
+		{
+			"id": 120011,
+			"name_en": "Dreams Donned with Pride!",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 201113,
+			"name_en": "Refraction Arc",
+			"iconid": 20012,
+			"rarity": 2
+		},
+		{
+			"id": 300131,
+			"name_en": "Ruler of Japan",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 300141,
+			"name_en": "Indomitable",
+			"iconid": 20013,
+			"rarity": 5
+		},
+		{
+			"id": 1200011,
+			"name_en": "Medium Race Enthusiast",
+			"iconid": 10051,
+			"rarity": 1
+		},
+		{
+			"id": 1200021,
+			"name_en": "Long Race Enthusiast",
+			"iconid": 10021,
+			"rarity": 1
+		},
+		{
+			"id": 1200031,
+			"name_en": "Mile Race Enthusiast",
+			"iconid": 10031,
+			"rarity": 1
+		}
+	],
+	"factors": [
+		{
+			"id": "1",
+			"type": 1,
+			"name_en": "Speed",
+			"color": "blue"
+		},
+		{
+			"id": "2",
+			"type": 1,
+			"name_en": "Stamina",
+			"color": "blue"
+		},
+		{
+			"id": "3",
+			"type": 1,
+			"name_en": "Power",
+			"color": "blue"
+		},
+		{
+			"id": "4",
+			"type": 1,
+			"name_en": "Guts",
+			"color": "blue"
+		},
+		{
+			"id": "5",
+			"type": 1,
+			"name_en": "Wit",
+			"color": "blue"
+		},
+		{
+			"id": "11",
+			"type": 2,
+			"name_en": "Turf",
+			"color": "pink"
+		},
+		{
+			"id": "12",
+			"type": 2,
+			"name_en": "Dirt",
+			"color": "pink"
+		},
+		{
+			"id": "21",
+			"type": 2,
+			"name_en": "Front Runner",
+			"color": "pink"
+		},
+		{
+			"id": "22",
+			"type": 2,
+			"name_en": "Pace Chaser",
+			"color": "pink"
+		},
+		{
+			"id": "23",
+			"type": 2,
+			"name_en": "Late Surger",
+			"color": "pink"
+		},
+		{
+			"id": "24",
+			"type": 2,
+			"name_en": "End Closer",
+			"color": "pink"
+		},
+		{
+			"id": "31",
+			"type": 2,
+			"name_en": "Sprint",
+			"color": "pink"
+		},
+		{
+			"id": "32",
+			"type": 2,
+			"name_en": "Mile",
+			"color": "pink"
+		},
+		{
+			"id": "33",
+			"type": 2,
+			"name_en": "Medium",
+			"color": "pink"
+		},
+		{
+			"id": "34",
+			"type": 2,
+			"name_en": "Long",
+			"color": "pink"
+		},
+		{
+			"id": "100101",
+			"type": 3,
+			"name_en": "Shooting Star",
+			"color": "green"
+		},
+		{
+			"id": "100102",
+			"type": 3,
+			"name_en": "Dazzl'n ♪ Diver",
+			"color": "green"
+		},
+		{
+			"id": "100103",
+			"type": 3,
+			"name_en": "Dreams Donned with Pride!",
+			"color": "green"
+		},
+		{
+			"id": "100201",
+			"type": 3,
+			"name_en": "The View from the Lead Is Mine!",
+			"color": "green"
+		},
+		{
+			"id": "100301",
+			"type": 3,
+			"name_en": "Sky-High Teio Step",
+			"color": "green"
+		},
+		{
+			"id": "100302",
+			"type": 3,
+			"name_en": "Certain Victory",
+			"color": "green"
+		},
+		{
+			"id": "100401",
+			"type": 3,
+			"name_en": "Red Shift/LP1211-M",
+			"color": "green"
+		},
+		{
+			"id": "100402",
+			"type": 3,
+			"name_en": "A Kiss for Courage",
+			"color": "green"
+		},
+		{
+			"id": "100501",
+			"type": 3,
+			"name_en": "Lights of Vaudeville",
+			"color": "green"
+		},
+		{
+			"id": "100502",
+			"type": 3,
+			"name_en": "Ravissant",
+			"color": "green"
+		},
+		{
+			"id": "100601",
+			"type": 3,
+			"name_en": "Triumphant Pulse",
+			"color": "green"
+		},
+		{
+			"id": "100602",
+			"type": 3,
+			"name_en": "Festive Miracle",
+			"color": "green"
+		},
+		{
+			"id": "100701",
+			"type": 3,
+			"name_en": "Anchors Aweigh!",
+			"color": "green"
+		},
+		{
+			"id": "100801",
+			"type": 3,
+			"name_en": "Cut and Drive!",
+			"color": "green"
+		},
+		{
+			"id": "100901",
+			"type": 3,
+			"name_en": "Resplendent Red Ace",
+			"color": "green"
+		},
+		{
+			"id": "101001",
+			"type": 3,
+			"name_en": "Shooting for Victory!",
+			"color": "green"
+		},
+		{
+			"id": "101002",
+			"type": 3,
+			"name_en": "Joyful Voyage!",
+			"color": "green"
+		},
+		{
+			"id": "101101",
+			"type": 3,
+			"name_en": "Where There's a Will, There's a Way",
+			"color": "green"
+		},
+		{
+			"id": "101102",
+			"type": 3,
+			"name_en": "Superior Heal",
+			"color": "green"
+		},
+		{
+			"id": "101201",
+			"type": 3,
+			"name_en": "You and Me! One-on-One!",
+			"color": "green"
+		},
+		{
+			"id": "101301",
+			"type": 3,
+			"name_en": "The Duty of Dignity Calls",
+			"color": "green"
+		},
+		{
+			"id": "101302",
+			"type": 3,
+			"name_en": "Legacy of the Strong",
+			"color": "green"
+		},
+		{
+			"id": "101401",
+			"type": 3,
+			"name_en": "Victoria por plancha ☆",
+			"color": "green"
+		},
+		{
+			"id": "101402",
+			"type": 3,
+			"name_en": "Condor's Fury",
+			"color": "green"
+		},
+		{
+			"id": "101501",
+			"type": 3,
+			"name_en": "This Dance Is for Vittoria!",
+			"color": "green"
+		},
+		{
+			"id": "101502",
+			"type": 3,
+			"name_en": "Barcarole of Blessings",
+			"color": "green"
+		},
+		{
+			"id": "101601",
+			"type": 3,
+			"name_en": "Shadow Break",
+			"color": "green"
+		},
+		{
+			"id": "101701",
+			"type": 3,
+			"name_en": "Behold Thine Emperor's Divine Might",
+			"color": "green"
+		},
+		{
+			"id": "101702",
+			"type": 3,
+			"name_en": "Arrows Whistle, Shadows Disperse",
+			"color": "green"
+		},
+		{
+			"id": "101801",
+			"type": 3,
+			"name_en": "Blazing Pride",
+			"color": "green"
+		},
+		{
+			"id": "101802",
+			"type": 3,
+			"name_en": "Eternal Moments",
+			"color": "green"
+		},
+		{
+			"id": "101901",
+			"type": 3,
+			"name_en": "OMG! (ﾟ∀ﾟ)  The Final Sprint! ☆",
+			"color": "green"
+		},
+		{
+			"id": "102001",
+			"type": 3,
+			"name_en": "Angling and Scheming",
+			"color": "green"
+		},
+		{
+			"id": "102002",
+			"type": 3,
+			"name_en": "Break It Down!",
+			"color": "green"
+		},
+		{
+			"id": "102101",
+			"type": 3,
+			"name_en": "White Lightning Comin' Through!",
+			"color": "green"
+		},
+		{
+			"id": "102201",
+			"type": 3,
+			"name_en": "Fairy Tale",
+			"color": "green"
+		},
+		{
+			"id": "102202",
+			"type": 3,
+			"name_en": "Best day ever",
+			"color": "green"
+		},
+		{
+			"id": "102301",
+			"type": 3,
+			"name_en": "∴win Q.E.D.",
+			"color": "green"
+		},
+		{
+			"id": "102302",
+			"type": 3,
+			"name_en": "Presents from X",
+			"color": "green"
+		},
+		{
+			"id": "102401",
+			"type": 3,
+			"name_en": "Flashy☆Landing",
+			"color": "green"
+		},
+		{
+			"id": "102402",
+			"type": 3,
+			"name_en": "Flowery☆Maneuver",
+			"color": "green"
+		},
+		{
+			"id": "102501",
+			"type": 3,
+			"name_en": "Chasing after You",
+			"color": "green"
+		},
+		{
+			"id": "102601",
+			"type": 3,
+			"name_en": "G00 1st. F∞;",
+			"color": "green"
+		},
+		{
+			"id": "102602",
+			"type": 3,
+			"name_en": "Operation Cacao",
+			"color": "green"
+		},
+		{
+			"id": "102701",
+			"type": 3,
+			"name_en": "Let's Pump Some Iron!",
+			"color": "green"
+		},
+		{
+			"id": "102801",
+			"type": 3,
+			"name_en": "YUMMY☆SPEED!",
+			"color": "green"
+		},
+		{
+			"id": "103001",
+			"type": 3,
+			"name_en": "Blue Rose Closer",
+			"color": "green"
+		},
+		{
+			"id": "103002",
+			"type": 3,
+			"name_en": "Every Rose Has Its Fangs",
+			"color": "green"
+		},
+		{
+			"id": "103101",
+			"type": 3,
+			"name_en": "All Charged! It's Go Time!",
+			"color": "green"
+		},
+		{
+			"id": "103201",
+			"type": 3,
+			"name_en": "U=ma2",
+			"color": "green"
+		},
+		{
+			"id": "103301",
+			"type": 3,
+			"name_en": "Shooting Star of Dioskouroi",
+			"color": "green"
+		},
+		{
+			"id": "103401",
+			"type": 3,
+			"name_en": "Now We're Cruisin'!",
+			"color": "green"
+		},
+		{
+			"id": "103501",
+			"type": 3,
+			"name_en": "Our Ticket to Win!",
+			"color": "green"
+		},
+		{
+			"id": "103601",
+			"type": 3,
+			"name_en": "trigger:BEAT",
+			"color": "green"
+		},
+		{
+			"id": "103701",
+			"type": 3,
+			"name_en": "Schwarzes Schwert",
+			"color": "green"
+		},
+		{
+			"id": "103702",
+			"type": 3,
+			"name_en": "Guten Appetit ♪",
+			"color": "green"
+		},
+		{
+			"id": "103801",
+			"type": 3,
+			"name_en": "#LookatCurren",
+			"color": "green"
+		},
+		{
+			"id": "103802",
+			"type": 3,
+			"name_en": "One True Color",
+			"color": "green"
+		},
+		{
+			"id": "103901",
+			"type": 3,
+			"name_en": "A Princess Must Seize Victory!",
+			"color": "green"
+		},
+		{
+			"id": "104001",
+			"type": 3,
+			"name_en": "KEEP IT REAL.",
+			"color": "green"
+		},
+		{
+			"id": "104002",
+			"type": 3,
+			"name_en": "Dancing in the Leaves",
+			"color": "green"
+		},
+		{
+			"id": "104101",
+			"type": 3,
+			"name_en": "Genius x Bakushin = Victory",
+			"color": "green"
+		},
+		{
+			"id": "104401",
+			"type": 3,
+			"name_en": "Victory belongs to me—Strelitzia! ☆",
+			"color": "green"
+		},
+		{
+			"id": "104501",
+			"type": 3,
+			"name_en": "Pure Heart",
+			"color": "green"
+		},
+		{
+			"id": "104502",
+			"type": 3,
+			"name_en": "Give Mummy a Hug ♡",
+			"color": "green"
+		},
+		{
+			"id": "104601",
+			"type": 3,
+			"name_en": "SPARKLY☆STARDOM",
+			"color": "green"
+		},
+		{
+			"id": "104801",
+			"type": 3,
+			"name_en": "Pop & Polish",
+			"color": "green"
+		},
+		{
+			"id": "105001",
+			"type": 3,
+			"name_en": "Nemesis",
+			"color": "green"
+		},
+		{
+			"id": "105101",
+			"type": 3,
+			"name_en": "Budding Blossom",
+			"color": "green"
+		},
+		{
+			"id": "105201",
+			"type": 3,
+			"name_en": "Super-Duper Climax",
+			"color": "green"
+		},
+		{
+			"id": "105202",
+			"type": 3,
+			"name_en": "114th Time's the Charm",
+			"color": "green"
+		},
+		{
+			"id": "105601",
+			"type": 3,
+			"name_en": "I See Victory in My Future!",
+			"color": "green"
+		},
+		{
+			"id": "105602",
+			"type": 3,
+			"name_en": "Bountiful Harvest",
+			"color": "green"
+		},
+		{
+			"id": "105801",
+			"type": 3,
+			"name_en": "I Never Goof Up!",
+			"color": "green"
+		},
+		{
+			"id": "105901",
+			"type": 3,
+			"name_en": "Moving Past, and Beyond",
+			"color": "green"
+		},
+		{
+			"id": "105902",
+			"type": 3,
+			"name_en": "Wherever This Wonder Leads",
+			"color": "green"
+		},
+		{
+			"id": "106001",
+			"type": 3,
+			"name_en": "Just a Little Farther!",
+			"color": "green"
+		},
+		{
+			"id": "106002",
+			"type": 3,
+			"name_en": "Go☆Go☆Goal!",
+			"color": "green"
+		},
+		{
+			"id": "106101",
+			"type": 3,
+			"name_en": "Prideful King",
+			"color": "green"
+		},
+		{
+			"id": "106102",
+			"type": 3,
+			"name_en": "Louder! Tracen Cheer!",
+			"color": "green"
+		},
+		{
+			"id": "106201",
+			"type": 3,
+			"name_en": "Go, Go, Mun!",
+			"color": "green"
+		},
+		{
+			"id": "106401",
+			"type": 3,
+			"name_en": "Keep Pushing Ahead",
+			"color": "green"
+		},
+		{
+			"id": "106701",
+			"type": 3,
+			"name_en": "Eternal Encompassing Shine",
+			"color": "green"
+		},
+		{
+			"id": "106801",
+			"type": 3,
+			"name_en": "Victory Cheer!",
+			"color": "green"
+		},
+		{
+			"id": "106901",
+			"type": 3,
+			"name_en": "Ambition to Surpass the Sakura",
+			"color": "green"
+		},
+		{
+			"id": "107101",
+			"type": 3,
+			"name_en": "A Lifelong Dream, A Moment's Flight",
+			"color": "green"
+		},
+		{
+			"id": "107201",
+			"type": 3,
+			"name_en": "Peerless Dance of Flowering Flames",
+			"color": "green"
+		},
+		{
+			"id": "107401",
+			"type": 3,
+			"name_en": "Lovely Spring Breeze",
+			"color": "green"
+		},
+		{
+			"id": "20001",
+			"type": 4,
+			"name_en": "Right-Handed ○",
+			"color": "white"
+		},
+		{
+			"id": "20002",
+			"type": 4,
+			"name_en": "Left-Handed ○",
+			"color": "white"
+		},
+		{
+			"id": "20003",
+			"type": 4,
+			"name_en": "Tokyo Racecourse ○",
+			"color": "white"
+		},
+		{
+			"id": "20004",
+			"type": 4,
+			"name_en": "Nakayama Racecourse ○",
+			"color": "white"
+		},
+		{
+			"id": "20005",
+			"type": 4,
+			"name_en": "Hanshin Racecourse ○",
+			"color": "white"
+		},
+		{
+			"id": "20006",
+			"type": 4,
+			"name_en": "Kyoto Racecourse ○",
+			"color": "white"
+		},
+		{
+			"id": "20007",
+			"type": 4,
+			"name_en": "Chukyo Racecourse ○",
+			"color": "white"
+		},
+		{
+			"id": "20008",
+			"type": 4,
+			"name_en": "Sapporo Racecourse ○",
+			"color": "white"
+		},
+		{
+			"id": "20009",
+			"type": 4,
+			"name_en": "Hakodate Racecourse ○",
+			"color": "white"
+		},
+		{
+			"id": "20010",
+			"type": 4,
+			"name_en": "Fukushima Racecourse ○",
+			"color": "white"
+		},
+		{
+			"id": "20011",
+			"type": 4,
+			"name_en": "Niigata Racecourse ○",
+			"color": "white"
+		},
+		{
+			"id": "20012",
+			"type": 4,
+			"name_en": "Kokura Racecourse ○",
+			"color": "white"
+		},
+		{
+			"id": "20013",
+			"type": 4,
+			"name_en": "Standard Distance ○",
+			"color": "white"
+		},
+		{
+			"id": "20014",
+			"type": 4,
+			"name_en": "Non-Standard Distance ○",
+			"color": "white"
+		},
+		{
+			"id": "20015",
+			"type": 4,
+			"name_en": "Firm Conditions ○",
+			"color": "white"
+		},
+		{
+			"id": "20016",
+			"type": 4,
+			"name_en": "Wet Conditions ○",
+			"color": "white"
+		},
+		{
+			"id": "20017",
+			"type": 4,
+			"name_en": "Spring Runner ○",
+			"color": "white"
+		},
+		{
+			"id": "20018",
+			"type": 4,
+			"name_en": "Summer Runner ○",
+			"color": "white"
+		},
+		{
+			"id": "20019",
+			"type": 4,
+			"name_en": "Fall Runner ○",
+			"color": "white"
+		},
+		{
+			"id": "20020",
+			"type": 4,
+			"name_en": "Winter Runner ○",
+			"color": "white"
+		},
+		{
+			"id": "20021",
+			"type": 4,
+			"name_en": "Sunny Days ○",
+			"color": "white"
+		},
+		{
+			"id": "20022",
+			"type": 4,
+			"name_en": "Cloudy Days ○",
+			"color": "white"
+		},
+		{
+			"id": "20023",
+			"type": 4,
+			"name_en": "Rainy Days ○",
+			"color": "white"
+		},
+		{
+			"id": "20024",
+			"type": 4,
+			"name_en": "Snowy Days ○",
+			"color": "white"
+		},
+		{
+			"id": "20025",
+			"type": 4,
+			"name_en": "Inner Post Proficiency ○",
+			"color": "white"
+		},
+		{
+			"id": "20026",
+			"type": 4,
+			"name_en": "Outer Post Proficiency ○",
+			"color": "white"
+		},
+		{
+			"id": "20027",
+			"type": 4,
+			"name_en": "Maverick ○",
+			"color": "white"
+		},
+		{
+			"id": "20028",
+			"type": 4,
+			"name_en": "Competitive Spirit ○",
+			"color": "white"
+		},
+		{
+			"id": "20029",
+			"type": 4,
+			"name_en": "Target in Sight ○",
+			"color": "white"
+		},
+		{
+			"id": "20030",
+			"type": 4,
+			"name_en": "Long Shot ○",
+			"color": "white"
+		},
+		{
+			"id": "20033",
+			"type": 4,
+			"name_en": "Corner Adept ○",
+			"color": "white"
+		},
+		{
+			"id": "20034",
+			"type": 4,
+			"name_en": "Corner Acceleration ○",
+			"color": "white"
+		},
+		{
+			"id": "20035",
+			"type": 4,
+			"name_en": "Corner Recovery ○",
+			"color": "white"
+		},
+		{
+			"id": "20036",
+			"type": 4,
+			"name_en": "Straightaway Adept",
+			"color": "white"
+		},
+		{
+			"id": "20037",
+			"type": 4,
+			"name_en": "Straightaway Acceleration",
+			"color": "white"
+		},
+		{
+			"id": "20038",
+			"type": 4,
+			"name_en": "Straightaway Recovery",
+			"color": "white"
+		},
+		{
+			"id": "20043",
+			"type": 4,
+			"name_en": "Focus",
+			"color": "white"
+		},
+		{
+			"id": "20044",
+			"type": 4,
+			"name_en": "Lay Low",
+			"color": "white"
+		},
+		{
+			"id": "20045",
+			"type": 4,
+			"name_en": "Prudent Positioning",
+			"color": "white"
+		},
+		{
+			"id": "20046",
+			"type": 4,
+			"name_en": "Ramp Up",
+			"color": "white"
+		},
+		{
+			"id": "20047",
+			"type": 4,
+			"name_en": "Pace Strategy",
+			"color": "white"
+		},
+		{
+			"id": "20048",
+			"type": 4,
+			"name_en": "Calm in a Crowd",
+			"color": "white"
+		},
+		{
+			"id": "20049",
+			"type": 4,
+			"name_en": "Nimble Navigator",
+			"color": "white"
+		},
+		{
+			"id": "20050",
+			"type": 4,
+			"name_en": "Go with the Flow",
+			"color": "white"
+		},
+		{
+			"id": "20051",
+			"type": 4,
+			"name_en": "Homestretch Haste",
+			"color": "white"
+		},
+		{
+			"id": "20053",
+			"type": 4,
+			"name_en": "Early Lead",
+			"color": "white"
+		},
+		{
+			"id": "20054",
+			"type": 4,
+			"name_en": "Fast-Paced",
+			"color": "white"
+		},
+		{
+			"id": "20055",
+			"type": 4,
+			"name_en": "Final Push",
+			"color": "white"
+		},
+		{
+			"id": "20056",
+			"type": 4,
+			"name_en": "Stamina to Spare",
+			"color": "white"
+		},
+		{
+			"id": "20057",
+			"type": 4,
+			"name_en": "Preferred Position",
+			"color": "white"
+		},
+		{
+			"id": "20058",
+			"type": 4,
+			"name_en": "Prepared to Pass",
+			"color": "white"
+		},
+		{
+			"id": "20059",
+			"type": 4,
+			"name_en": "Position Pilfer",
+			"color": "white"
+		},
+		{
+			"id": "20060",
+			"type": 4,
+			"name_en": "Slick Surge",
+			"color": "white"
+		},
+		{
+			"id": "20061",
+			"type": 4,
+			"name_en": "Outer Swell",
+			"color": "white"
+		},
+		{
+			"id": "20062",
+			"type": 4,
+			"name_en": "Standing By",
+			"color": "white"
+		},
+		{
+			"id": "20063",
+			"type": 4,
+			"name_en": "Masterful Gambit",
+			"color": "white"
+		},
+		{
+			"id": "20064",
+			"type": 4,
+			"name_en": "Straightaway Spurt",
+			"color": "white"
+		},
+		{
+			"id": "20065",
+			"type": 4,
+			"name_en": "Sprinting Gear",
+			"color": "white"
+		},
+		{
+			"id": "20066",
+			"type": 4,
+			"name_en": "Wait-and-See",
+			"color": "white"
+		},
+		{
+			"id": "20067",
+			"type": 4,
+			"name_en": "Gap Closer",
+			"color": "white"
+		},
+		{
+			"id": "20068",
+			"type": 4,
+			"name_en": "Productive Plan",
+			"color": "white"
+		},
+		{
+			"id": "20069",
+			"type": 4,
+			"name_en": "Watchful Eye",
+			"color": "white"
+		},
+		{
+			"id": "20070",
+			"type": 4,
+			"name_en": "Updrafters",
+			"color": "white"
+		},
+		{
+			"id": "20071",
+			"type": 4,
+			"name_en": "Rosy Outlook",
+			"color": "white"
+		},
+		{
+			"id": "20072",
+			"type": 4,
+			"name_en": "Up-Tempo",
+			"color": "white"
+		},
+		{
+			"id": "20073",
+			"type": 4,
+			"name_en": "Steadfast",
+			"color": "white"
+		},
+		{
+			"id": "20074",
+			"type": 4,
+			"name_en": "Deep Breaths",
+			"color": "white"
+		},
+		{
+			"id": "20075",
+			"type": 4,
+			"name_en": "Inside Scoop",
+			"color": "white"
+		},
+		{
+			"id": "20076",
+			"type": 4,
+			"name_en": "Extra Tank",
+			"color": "white"
+		},
+		{
+			"id": "20077",
+			"type": 4,
+			"name_en": "Trick (Front)",
+			"color": "white"
+		},
+		{
+			"id": "20078",
+			"type": 4,
+			"name_en": "Trick (Rear)",
+			"color": "white"
+		},
+		{
+			"id": "20079",
+			"type": 4,
+			"name_en": "Frenzied Front Runners",
+			"color": "white"
+		},
+		{
+			"id": "20080",
+			"type": 4,
+			"name_en": "Frenzied Pace Chasers",
+			"color": "white"
+		},
+		{
+			"id": "20081",
+			"type": 4,
+			"name_en": "Frenzied Late Surgers",
+			"color": "white"
+		},
+		{
+			"id": "20082",
+			"type": 4,
+			"name_en": "Frenzied End Closers",
+			"color": "white"
+		},
+		{
+			"id": "20083",
+			"type": 4,
+			"name_en": "Subdued Front Runners",
+			"color": "white"
+		},
+		{
+			"id": "20084",
+			"type": 4,
+			"name_en": "Flustered Front Runners",
+			"color": "white"
+		},
+		{
+			"id": "20085",
+			"type": 4,
+			"name_en": "Hesitant Front Runners",
+			"color": "white"
+		},
+		{
+			"id": "20086",
+			"type": 4,
+			"name_en": "Subdued Pace Chasers",
+			"color": "white"
+		},
+		{
+			"id": "20087",
+			"type": 4,
+			"name_en": "Flustered Pace Chasers",
+			"color": "white"
+		},
+		{
+			"id": "20088",
+			"type": 4,
+			"name_en": "Hesitant Pace Chasers",
+			"color": "white"
+		},
+		{
+			"id": "20089",
+			"type": 4,
+			"name_en": "Subdued Late Surgers",
+			"color": "white"
+		},
+		{
+			"id": "20090",
+			"type": 4,
+			"name_en": "Flustered Late Surgers",
+			"color": "white"
+		},
+		{
+			"id": "20091",
+			"type": 4,
+			"name_en": "Hesitant Late Surgers",
+			"color": "white"
+		},
+		{
+			"id": "20092",
+			"type": 4,
+			"name_en": "Subdued End Closers",
+			"color": "white"
+		},
+		{
+			"id": "20093",
+			"type": 4,
+			"name_en": "Flustered End Closers",
+			"color": "white"
+		},
+		{
+			"id": "20094",
+			"type": 4,
+			"name_en": "Hesitant End Closers",
+			"color": "white"
+		},
+		{
+			"id": "20095",
+			"type": 4,
+			"name_en": "Oi Racecourse ○",
+			"color": "white"
+		},
+		{
+			"id": "20096",
+			"type": 4,
+			"name_en": "Sprint Straightaways ○",
+			"color": "white"
+		},
+		{
+			"id": "20097",
+			"type": 4,
+			"name_en": "Sprint Corners ○",
+			"color": "white"
+		},
+		{
+			"id": "20098",
+			"type": 4,
+			"name_en": "Huge Lead",
+			"color": "white"
+		},
+		{
+			"id": "20099",
+			"type": 4,
+			"name_en": "Countermeasure",
+			"color": "white"
+		},
+		{
+			"id": "20100",
+			"type": 4,
+			"name_en": "Meticulous Measures",
+			"color": "white"
+		},
+		{
+			"id": "20101",
+			"type": 4,
+			"name_en": "Intimidate",
+			"color": "white"
+		},
+		{
+			"id": "20102",
+			"type": 4,
+			"name_en": "Stop Right There!",
+			"color": "white"
+		},
+		{
+			"id": "20103",
+			"type": 4,
+			"name_en": "Mile Straightaways ○",
+			"color": "white"
+		},
+		{
+			"id": "20104",
+			"type": 4,
+			"name_en": "Mile Corners ○",
+			"color": "white"
+		},
+		{
+			"id": "20105",
+			"type": 4,
+			"name_en": "Shifting Gears",
+			"color": "white"
+		},
+		{
+			"id": "20106",
+			"type": 4,
+			"name_en": "Acceleration",
+			"color": "white"
+		},
+		{
+			"id": "20107",
+			"type": 4,
+			"name_en": "Unyielding Spirit",
+			"color": "white"
+		},
+		{
+			"id": "20108",
+			"type": 4,
+			"name_en": "Speed Eater",
+			"color": "white"
+		},
+		{
+			"id": "20109",
+			"type": 4,
+			"name_en": "Opening Gambit",
+			"color": "white"
+		},
+		{
+			"id": "20110",
+			"type": 4,
+			"name_en": "Medium Straightaways ○",
+			"color": "white"
+		},
+		{
+			"id": "20111",
+			"type": 4,
+			"name_en": "Medium Corners ○",
+			"color": "white"
+		},
+		{
+			"id": "20112",
+			"type": 4,
+			"name_en": "Hawkeye",
+			"color": "white"
+		},
+		{
+			"id": "20113",
+			"type": 4,
+			"name_en": "Thunderbolt Step",
+			"color": "white"
+		},
+		{
+			"id": "20114",
+			"type": 4,
+			"name_en": "Soft Step",
+			"color": "white"
+		},
+		{
+			"id": "20115",
+			"type": 4,
+			"name_en": "Tether",
+			"color": "white"
+		},
+		{
+			"id": "20116",
+			"type": 4,
+			"name_en": "Murmur",
+			"color": "white"
+		},
+		{
+			"id": "20117",
+			"type": 4,
+			"name_en": "Long Straightaways ○",
+			"color": "white"
+		},
+		{
+			"id": "20118",
+			"type": 4,
+			"name_en": "Long Corners ○",
+			"color": "white"
+		},
+		{
+			"id": "20119",
+			"type": 4,
+			"name_en": "Keeping the Lead",
+			"color": "white"
+		},
+		{
+			"id": "20120",
+			"type": 4,
+			"name_en": "Passing Pro",
+			"color": "white"
+		},
+		{
+			"id": "20121",
+			"type": 4,
+			"name_en": "Pressure",
+			"color": "white"
+		},
+		{
+			"id": "20122",
+			"type": 4,
+			"name_en": "Stamina Eater",
+			"color": "white"
+		},
+		{
+			"id": "20123",
+			"type": 4,
+			"name_en": "Smoke Screen",
+			"color": "white"
+		},
+		{
+			"id": "20124",
+			"type": 4,
+			"name_en": "Front Runner Straightaways ○",
+			"color": "white"
+		},
+		{
+			"id": "20125",
+			"type": 4,
+			"name_en": "Front Runner Corners ○",
+			"color": "white"
+		},
+		{
+			"id": "20126",
+			"type": 4,
+			"name_en": "Dodging Danger",
+			"color": "white"
+		},
+		{
+			"id": "20127",
+			"type": 4,
+			"name_en": "Leader's Pride",
+			"color": "white"
+		},
+		{
+			"id": "20128",
+			"type": 4,
+			"name_en": "Moxie",
+			"color": "white"
+		},
+		{
+			"id": "20129",
+			"type": 4,
+			"name_en": "Second Wind",
+			"color": "white"
+		},
+		{
+			"id": "20130",
+			"type": 4,
+			"name_en": "Restart",
+			"color": "white"
+		},
+		{
+			"id": "20131",
+			"type": 4,
+			"name_en": "Pace Chaser Straightaways ○",
+			"color": "white"
+		},
+		{
+			"id": "20132",
+			"type": 4,
+			"name_en": "Pace Chaser Corners ○",
+			"color": "white"
+		},
+		{
+			"id": "20133",
+			"type": 4,
+			"name_en": "Shrewd Step",
+			"color": "white"
+		},
+		{
+			"id": "20134",
+			"type": 4,
+			"name_en": "Straight Descent",
+			"color": "white"
+		},
+		{
+			"id": "20135",
+			"type": 4,
+			"name_en": "Hydrate",
+			"color": "white"
+		},
+		{
+			"id": "20136",
+			"type": 4,
+			"name_en": "Tactical Tweak",
+			"color": "white"
+		},
+		{
+			"id": "20137",
+			"type": 4,
+			"name_en": "Disorient",
+			"color": "white"
+		},
+		{
+			"id": "20138",
+			"type": 4,
+			"name_en": "Late Surger Straightaways ○",
+			"color": "white"
+		},
+		{
+			"id": "20139",
+			"type": 4,
+			"name_en": "Late Surger Corners ○",
+			"color": "white"
+		},
+		{
+			"id": "20140",
+			"type": 4,
+			"name_en": "Fighter",
+			"color": "white"
+		},
+		{
+			"id": "20141",
+			"type": 4,
+			"name_en": "1,500,000 CC",
+			"color": "white"
+		},
+		{
+			"id": "20142",
+			"type": 4,
+			"name_en": "A Small Breather",
+			"color": "white"
+		},
+		{
+			"id": "20143",
+			"type": 4,
+			"name_en": "Studious",
+			"color": "white"
+		},
+		{
+			"id": "20144",
+			"type": 4,
+			"name_en": "Sharp Gaze",
+			"color": "white"
+		},
+		{
+			"id": "20145",
+			"type": 4,
+			"name_en": "End Closer Straightaways ○",
+			"color": "white"
+		},
+		{
+			"id": "20146",
+			"type": 4,
+			"name_en": "End Closer Corners ○",
+			"color": "white"
+		},
+		{
+			"id": "20147",
+			"type": 4,
+			"name_en": "I Can See Right Through You",
+			"color": "white"
+		},
+		{
+			"id": "20148",
+			"type": 4,
+			"name_en": "After-School Stroll",
+			"color": "white"
+		},
+		{
+			"id": "20149",
+			"type": 4,
+			"name_en": "Levelheaded",
+			"color": "white"
+		},
+		{
+			"id": "20150",
+			"type": 4,
+			"name_en": "Strategist",
+			"color": "white"
+		},
+		{
+			"id": "20151",
+			"type": 4,
+			"name_en": "Intense Gaze",
+			"color": "white"
+		},
+		{
+			"id": "20152",
+			"type": 4,
+			"name_en": "Front Runner Savvy ○",
+			"color": "white"
+		},
+		{
+			"id": "20153",
+			"type": 4,
+			"name_en": "Pace Chaser Savvy ○",
+			"color": "white"
+		},
+		{
+			"id": "20154",
+			"type": 4,
+			"name_en": "Late Surger Savvy ○",
+			"color": "white"
+		},
+		{
+			"id": "20155",
+			"type": 4,
+			"name_en": "End Closer Savvy ○",
+			"color": "white"
+		},
+		{
+			"id": "20156",
+			"type": 4,
+			"name_en": "Lucky Seven",
+			"color": "white"
+		},
+		{
+			"id": "20157",
+			"type": 4,
+			"name_en": "Triple 7s",
+			"color": "white"
+		},
+		{
+			"id": "20158",
+			"type": 4,
+			"name_en": "Highlander",
+			"color": "white"
+		},
+		{
+			"id": "20159",
+			"type": 4,
+			"name_en": "Uma Stan",
+			"color": "white"
+		},
+		{
+			"id": "20160",
+			"type": 4,
+			"name_en": "Groundwork",
+			"color": "white"
+		},
+		{
+			"id": "20161",
+			"type": 4,
+			"name_en": "Tail Held High",
+			"color": "white"
+		},
+		{
+			"id": "20162",
+			"type": 4,
+			"name_en": "Shake It Out",
+			"color": "white"
+		},
+		{
+			"id": "20163",
+			"type": 4,
+			"name_en": "Sympathy",
+			"color": "white"
+		},
+		{
+			"id": "20164",
+			"type": 4,
+			"name_en": "Lone Wolf",
+			"color": "white"
+		},
+		{
+			"id": "20165",
+			"type": 4,
+			"name_en": "Slipstream",
+			"color": "white"
+		},
+		{
+			"id": "20166",
+			"type": 4,
+			"name_en": "Playtime's Over!",
+			"color": "white"
+		},
+		{
+			"id": "20167",
+			"type": 4,
+			"name_en": "Top Pick",
+			"color": "white"
+		},
+		{
+			"id": "20168",
+			"type": 4,
+			"name_en": "Forward, March!",
+			"color": "white"
+		},
+		{
+			"id": "20169",
+			"type": 4,
+			"name_en": "Be Still",
+			"color": "white"
+		},
+		{
+			"id": "20170",
+			"type": 4,
+			"name_en": "All I've Got",
+			"color": "white"
+		},
+		{
+			"id": "20190",
+			"type": 4,
+			"name_en": "Head-On",
+			"color": "white"
+		},
+		{
+			"id": "20200",
+			"type": 4,
+			"name_en": "Familiar Ground",
+			"color": "white"
+		},
+		{
+			"id": "20201",
+			"type": 4,
+			"name_en": "Feature Act",
+			"color": "white"
+		},
+		{
+			"id": "20202",
+			"type": 4,
+			"name_en": "Early Start",
+			"color": "white"
+		},
+		{
+			"id": "20203",
+			"type": 4,
+			"name_en": "Risky Business",
+			"color": "white"
+		},
+		{
+			"id": "20204",
+			"type": 4,
+			"name_en": "Light as a Feather",
+			"color": "white"
+		},
+		{
+			"id": "20207",
+			"type": 4,
+			"name_en": "Free-Spirited",
+			"color": "white"
+		},
+		{
+			"id": "20208",
+			"type": 4,
+			"name_en": "Take the Chance",
+			"color": "white"
+		},
+		{
+			"id": "20209",
+			"type": 4,
+			"name_en": "Fighting Spirit",
+			"color": "white"
+		},
+		{
+			"id": "20210",
+			"type": 4,
+			"name_en": "Eager",
+			"color": "white"
+		},
+		{
+			"id": "20211",
+			"type": 4,
+			"name_en": "Pumped",
+			"color": "white"
+		},
+		{
+			"id": "20212",
+			"type": 4,
+			"name_en": "Fearless",
+			"color": "white"
+		},
+		{
+			"id": "20213",
+			"type": 4,
+			"name_en": "With All My Soul",
+			"color": "white"
+		},
+		{
+			"id": "20215",
+			"type": 4,
+			"name_en": "Full Throttle",
+			"color": "white"
+		},
+		{
+			"id": "20216",
+			"type": 4,
+			"name_en": "Restraint",
+			"color": "white"
+		},
+		{
+			"id": "20217",
+			"type": 4,
+			"name_en": "Downhill Speedster",
+			"color": "white"
+		},
+		{
+			"id": "21001",
+			"type": 4,
+			"name_en": "Ignited Spirit SPD",
+			"color": "white"
+		},
+		{
+			"id": "21002",
+			"type": 4,
+			"name_en": "Ignited Spirit STA",
+			"color": "white"
+		},
+		{
+			"id": "21003",
+			"type": 4,
+			"name_en": "Ignited Spirit PWR",
+			"color": "white"
+		},
+		{
+			"id": "21004",
+			"type": 4,
+			"name_en": "Ignited Spirit GUTS",
+			"color": "white"
+		},
+		{
+			"id": "21005",
+			"type": 4,
+			"name_en": "Ignited Spirit WIT",
+			"color": "white"
+		},
+		{
+			"id": "21006",
+			"type": 4,
+			"name_en": "Glittering Star",
+			"color": "white"
+		},
+		{
+			"id": "10001",
+			"type": 5,
+			"name_en": "February Stakes",
+			"color": "white"
+		},
+		{
+			"id": "10002",
+			"type": 5,
+			"name_en": "Takamatsunomiya Kinen",
+			"color": "white"
+		},
+		{
+			"id": "10003",
+			"type": 5,
+			"name_en": "Osaka Hai",
+			"color": "white"
+		},
+		{
+			"id": "10004",
+			"type": 5,
+			"name_en": "Oka Sho",
+			"color": "white"
+		},
+		{
+			"id": "10005",
+			"type": 5,
+			"name_en": "Satsuki Sho",
+			"color": "white"
+		},
+		{
+			"id": "10006",
+			"type": 5,
+			"name_en": "Tenno Sho (Spring)",
+			"color": "white"
+		},
+		{
+			"id": "10007",
+			"type": 5,
+			"name_en": "NHK Mile Cup",
+			"color": "white"
+		},
+		{
+			"id": "10008",
+			"type": 5,
+			"name_en": "Victoria Mile",
+			"color": "white"
+		},
+		{
+			"id": "10009",
+			"type": 5,
+			"name_en": "Japanese Oaks",
+			"color": "white"
+		},
+		{
+			"id": "10010",
+			"type": 5,
+			"name_en": "Tokyo Yushun (Japanese Derby)",
+			"color": "white"
+		},
+		{
+			"id": "10011",
+			"type": 5,
+			"name_en": "Yasuda Kinen",
+			"color": "white"
+		},
+		{
+			"id": "10012",
+			"type": 5,
+			"name_en": "Takarazuka Kinen",
+			"color": "white"
+		},
+		{
+			"id": "10013",
+			"type": 5,
+			"name_en": "Sprinters Stakes",
+			"color": "white"
+		},
+		{
+			"id": "10014",
+			"type": 5,
+			"name_en": "Shuka Sho",
+			"color": "white"
+		},
+		{
+			"id": "10015",
+			"type": 5,
+			"name_en": "Kikuka Sho",
+			"color": "white"
+		},
+		{
+			"id": "10016",
+			"type": 5,
+			"name_en": "Tenno Sho (Autumn)",
+			"color": "white"
+		},
+		{
+			"id": "10017",
+			"type": 5,
+			"name_en": "Queen Elizabeth II Cup",
+			"color": "white"
+		},
+		{
+			"id": "10018",
+			"type": 5,
+			"name_en": "Mile Championship",
+			"color": "white"
+		},
+		{
+			"id": "10019",
+			"type": 5,
+			"name_en": "Japan Cup",
+			"color": "white"
+		},
+		{
+			"id": "10020",
+			"type": 5,
+			"name_en": "Champions Cup",
+			"color": "white"
+		},
+		{
+			"id": "10021",
+			"type": 5,
+			"name_en": "Hanshin Juvenile Fillies",
+			"color": "white"
+		},
+		{
+			"id": "10022",
+			"type": 5,
+			"name_en": "Asahi Hai Futurity Stakes",
+			"color": "white"
+		},
+		{
+			"id": "10023",
+			"type": 5,
+			"name_en": "Arima Kinen",
+			"color": "white"
+		},
+		{
+			"id": "10024",
+			"type": 5,
+			"name_en": "Hopeful Stakes",
+			"color": "white"
+		},
+		{
+			"id": "10025",
+			"type": 5,
+			"name_en": "Teio Sho",
+			"color": "white"
+		},
+		{
+			"id": "10026",
+			"type": 5,
+			"name_en": "Japan Dirt Derby",
+			"color": "white"
+		},
+		{
+			"id": "10027",
+			"type": 5,
+			"name_en": "JBC Ladies’ Classic",
+			"color": "white"
+		},
+		{
+			"id": "10028",
+			"type": 5,
+			"name_en": "JBC Sprint",
+			"color": "white"
+		},
+		{
+			"id": "10029",
+			"type": 5,
+			"name_en": "JBC Classic",
+			"color": "white"
+		},
+		{
+			"id": "10030",
+			"type": 5,
+			"name_en": "Tokyo Daishoten",
+			"color": "white"
+		},
+		{
+			"id": "10031",
+			"type": 5,
+			"name_en": "Mile Championship Nambu Hai",
+			"color": "white"
+		},
+		{
+			"id": "10032",
+			"type": 5,
+			"name_en": "Kashiwa Kinen",
+			"color": "white"
+		},
+		{
+			"id": "10033",
+			"type": 5,
+			"name_en": "Zen-Nippon Junior Yushun",
+			"color": "white"
+		},
+		{
+			"id": "10034",
+			"type": 5,
+			"name_en": "Kawasaki Kinen",
+			"color": "white"
+		},
+		{
+			"id": "10035",
+			"type": 5,
+			"name_en": "Prix de l'Arc de Triomphe",
+			"color": "white"
+		},
+		{
+			"id": "30001",
+			"type": 6,
+			"name_en": "URA Finale",
+			"color": "white"
+		},
+		{
+			"id": "30002",
+			"type": 6,
+			"name_en": "Unity Cup",
+			"color": "white"
+		},
+		{
+			"id": "30003",
+			"type": 6,
+			"name_en": "TS Climax Scenario",
+			"color": "white"
+		}
+	],
+	"scenarios": [
+		{
+			"scenario_id": 1,
+			"name": "URA Finale"
+		},
+		{
+			"scenario_id": 2,
+			"name": "Unity Cup"
+		},
+		{
+			"scenario_id": 3,
+			"name": "Grand Live (unconfirmed)"
+		},
+		{
+			"scenario_id": 4,
+			"name": "Trackblazer"
+		},
+		{
+			"scenario_id": 5,
+			"name": "Grand Masters"
+		},
+		{
+			"scenario_id": 6,
+			"name": "Project L'arc"
+		},
+		{
+			"scenario_id": 7,
+			"name": "U.A.F. Ready GO!"
+		},
+		{
+			"scenario_id": 8,
+			"name": "Great Food Festival"
+		},
+		{
+			"scenario_id": 9,
+			"name": "Run, Mecha Umamusume!"
+		},
+		{
+			"scenario_id": 10,
+			"name": "The Twinkle Legends"
+		},
+		{
+			"scenario_id": 11,
+			"name": "Design Your Island"
+		}
+	],
+	"ranks": [
+		{
+			"rank": 1,
+			"rank_label": "G"
+		},
+		{
+			"rank": 2,
+			"rank_label": "G+"
+		},
+		{
+			"rank": 3,
+			"rank_label": "F"
+		},
+		{
+			"rank": 4,
+			"rank_label": "F+"
+		},
+		{
+			"rank": 5,
+			"rank_label": "E"
+		},
+		{
+			"rank": 6,
+			"rank_label": "E+"
+		},
+		{
+			"rank": 7,
+			"rank_label": "D"
+		},
+		{
+			"rank": 8,
+			"rank_label": "D+"
+		},
+		{
+			"rank": 9,
+			"rank_label": "C"
+		},
+		{
+			"rank": 10,
+			"rank_label": "C+"
+		},
+		{
+			"rank": 11,
+			"rank_label": "B"
+		},
+		{
+			"rank": 12,
+			"rank_label": "B+"
+		},
+		{
+			"rank": 13,
+			"rank_label": "A"
+		},
+		{
+			"rank": 14,
+			"rank_label": "A+"
+		},
+		{
+			"rank": 15,
+			"rank_label": "S"
+		},
+		{
+			"rank": 16,
+			"rank_label": "S+"
+		},
+		{
+			"rank": 17,
+			"rank_label": "SS"
+		},
+		{
+			"rank": 18,
+			"rank_label": "UG"
+		},
+		{
+			"rank": 19,
+			"rank_label": "UG1"
+		},
+		{
+			"rank": 20,
+			"rank_label": "UG2"
+		},
+		{
+			"rank": 21,
+			"rank_label": "UG3"
+		},
+		{
+			"rank": 22,
+			"rank_label": "UG4"
+		},
+		{
+			"rank": 23,
+			"rank_label": "UG5"
+		},
+		{
+			"rank": 24,
+			"rank_label": "UG6"
+		},
+		{
+			"rank": 25,
+			"rank_label": "UG7"
+		},
+		{
+			"rank": 26,
+			"rank_label": "UG8"
+		},
+		{
+			"rank": 27,
+			"rank_label": "UG9"
+		},
+		{
+			"rank": 28,
+			"rank_label": "UF"
+		},
+		{
+			"rank": 29,
+			"rank_label": "UF1"
+		},
+		{
+			"rank": 30,
+			"rank_label": "UF2"
+		},
+		{
+			"rank": 31,
+			"rank_label": "UF3"
+		},
+		{
+			"rank": 32,
+			"rank_label": "UF4"
+		},
+		{
+			"rank": 33,
+			"rank_label": "UF5"
+		},
+		{
+			"rank": 34,
+			"rank_label": "UF6"
+		},
+		{
+			"rank": 35,
+			"rank_label": "UF7"
+		},
+		{
+			"rank": 36,
+			"rank_label": "UF8"
+		},
+		{
+			"rank": 37,
+			"rank_label": "UF9"
+		},
+		{
+			"rank": 38,
+			"rank_label": "UE"
+		},
+		{
+			"rank": 39,
+			"rank_label": "UE1"
+		},
+		{
+			"rank": 40,
+			"rank_label": "UE2"
+		},
+		{
+			"rank": 41,
+			"rank_label": "UE3"
+		},
+		{
+			"rank": 42,
+			"rank_label": "UE4"
+		},
+		{
+			"rank": 43,
+			"rank_label": "UE5"
+		},
+		{
+			"rank": 44,
+			"rank_label": "UE6"
+		},
+		{
+			"rank": 45,
+			"rank_label": "UE7"
+		},
+		{
+			"rank": 46,
+			"rank_label": "UE8"
+		},
+		{
+			"rank": 47,
+			"rank_label": "UE9"
+		},
+		{
+			"rank": 48,
+			"rank_label": "UD"
+		},
+		{
+			"rank": 49,
+			"rank_label": "UD1"
+		},
+		{
+			"rank": 50,
+			"rank_label": "UD2"
+		},
+		{
+			"rank": 51,
+			"rank_label": "UD3"
+		},
+		{
+			"rank": 52,
+			"rank_label": "UD4"
+		},
+		{
+			"rank": 53,
+			"rank_label": "UD5"
+		},
+		{
+			"rank": 54,
+			"rank_label": "UD6"
+		},
+		{
+			"rank": 55,
+			"rank_label": "UD7"
+		},
+		{
+			"rank": 56,
+			"rank_label": "UD8"
+		},
+		{
+			"rank": 57,
+			"rank_label": "UD9"
+		},
+		{
+			"rank": 58,
+			"rank_label": "UC"
+		},
+		{
+			"rank": 59,
+			"rank_label": "UC1"
+		},
+		{
+			"rank": 60,
+			"rank_label": "UC2"
+		},
+		{
+			"rank": 61,
+			"rank_label": "UC3"
+		},
+		{
+			"rank": 62,
+			"rank_label": "UC4"
+		},
+		{
+			"rank": 63,
+			"rank_label": "UC5"
+		},
+		{
+			"rank": 64,
+			"rank_label": "UC6"
+		},
+		{
+			"rank": 65,
+			"rank_label": "UC7"
+		},
+		{
+			"rank": 66,
+			"rank_label": "UC8"
+		},
+		{
+			"rank": 67,
+			"rank_label": "UC9"
+		},
+		{
+			"rank": 68,
+			"rank_label": "UB"
+		},
+		{
+			"rank": 69,
+			"rank_label": "UB1"
+		},
+		{
+			"rank": 70,
+			"rank_label": "UB2"
+		},
+		{
+			"rank": 71,
+			"rank_label": "UB3"
+		},
+		{
+			"rank": 72,
+			"rank_label": "UB4"
+		},
+		{
+			"rank": 73,
+			"rank_label": "UB5"
+		},
+		{
+			"rank": 74,
+			"rank_label": "UB6"
+		},
+		{
+			"rank": 75,
+			"rank_label": "UB7"
+		},
+		{
+			"rank": 76,
+			"rank_label": "UB8"
+		},
+		{
+			"rank": 77,
+			"rank_label": "UB9"
+		},
+		{
+			"rank": 78,
+			"rank_label": "UA"
+		},
+		{
+			"rank": 79,
+			"rank_label": "UA1"
+		},
+		{
+			"rank": 80,
+			"rank_label": "UA2"
+		},
+		{
+			"rank": 81,
+			"rank_label": "UA3"
+		},
+		{
+			"rank": 82,
+			"rank_label": "UA4"
+		},
+		{
+			"rank": 83,
+			"rank_label": "UA5"
+		},
+		{
+			"rank": 84,
+			"rank_label": "UA6"
+		},
+		{
+			"rank": 85,
+			"rank_label": "UA7"
+		},
+		{
+			"rank": 86,
+			"rank_label": "UA8"
+		},
+		{
+			"rank": 87,
+			"rank_label": "UA9"
+		},
+		{
+			"rank": 88,
+			"rank_label": "US"
+		},
+		{
+			"rank": 89,
+			"rank_label": "US1"
+		},
+		{
+			"rank": 90,
+			"rank_label": "US2"
+		},
+		{
+			"rank": 91,
+			"rank_label": "US3"
+		},
+		{
+			"rank": 92,
+			"rank_label": "US4"
+		},
+		{
+			"rank": 93,
+			"rank_label": "US5"
+		},
+		{
+			"rank": 94,
+			"rank_label": "US6"
+		},
+		{
+			"rank": 95,
+			"rank_label": "US7"
+		},
+		{
+			"rank": 96,
+			"rank_label": "US8"
+		},
+		{
+			"rank": 97,
+			"rank_label": "US9"
+		}
+	],
+	"aptitudes": [
+		{
+			"aptitude": 1,
+			"aptitude_label": "G"
+		},
+		{
+			"aptitude": 2,
+			"aptitude_label": "F"
+		},
+		{
+			"aptitude": 3,
+			"aptitude_label": "E"
+		},
+		{
+			"aptitude": 4,
+			"aptitude_label": "D"
+		},
+		{
+			"aptitude": 5,
+			"aptitude_label": "C"
+		},
+		{
+			"aptitude": 6,
+			"aptitude_label": "B"
+		},
+		{
+			"aptitude": 7,
+			"aptitude_label": "A"
+		},
+		{
+			"aptitude": 8,
+			"aptitude_label": "S"
+		}
+	],
+	"skill_rarities": [
+		{
+			"id": 1,
+			"skill_type": "Normal"
+		},
+		{
+			"id": 2,
+			"skill_type": "Gold"
+		},
+		{
+			"id": 3,
+			"skill_type": "Unique (not upgraded)"
+		},
+		{
+			"id": 4,
+			"skill_type": "Unique (upgraded)"
+		},
+		{
+			"id": 5,
+			"skill_type": "Unique"
+		}
+	],
+	"factor_types": [
+		{
+			"id": 1,
+			"type": "Stat"
+		},
+		{
+			"id": 2,
+			"type": "Aptitude"
+		},
+		{
+			"id": 3,
+			"type": "Unique Skill"
+		},
+		{
+			"id": 4,
+			"type": "Normal Skill"
+		},
+		{
+			"id": 5,
+			"type": "Race"
+		},
+		{
+			"id": 6,
+			"type": "Scenario"
+		}
+	],
+	"factor_colors": [
+		{
+			"color_name": "blue",
+			"color_value": "#3fbbf4"
+		},
+		{
+			"color_name": "pink",
+			"color_value": "#ff7fb5"
+		},
+		{
+			"color_name": "green",
+			"color_value": "#94d331"
+		},
+		{
+			"color_name": "white",
+			"color_value": "#e1e0e1"
+		}
+	]
+}

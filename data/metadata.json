@@ -1,0 +1,538 @@
+{
+	"scenarios": [
+		{
+			"scenario_id": 1,
+			"name": "URA Finale"
+		},
+		{
+			"scenario_id": 2,
+			"name": "Unity Cup"
+		},
+		{
+			"scenario_id": 3,
+			"name": "Grand Live (unconfirmed)"
+		},
+		{
+			"scenario_id": 4,
+			"name": "Trackblazer"
+		},
+		{
+			"scenario_id": 5,
+			"name": "Grand Masters"
+		},
+		{
+			"scenario_id": 6,
+			"name": "Project L'arc"
+		},
+		{
+			"scenario_id": 7,
+			"name": "U.A.F. Ready GO!"
+		},
+		{
+			"scenario_id": 8,
+			"name": "Great Food Festival"
+		},
+		{
+			"scenario_id": 9,
+			"name": "Run, Mecha Umamusume!"
+		},
+		{
+			"scenario_id": 10,
+			"name": "The Twinkle Legends"
+		},
+		{
+			"scenario_id": 11,
+			"name": "Design Your Island"
+		}
+	],
+	"ranks": [
+		{
+			"rank": 1,
+			"rank_label": "G"
+		},
+		{
+			"rank": 2,
+			"rank_label": "G+"
+		},
+		{
+			"rank": 3,
+			"rank_label": "F"
+		},
+		{
+			"rank": 4,
+			"rank_label": "F+"
+		},
+		{
+			"rank": 5,
+			"rank_label": "E"
+		},
+		{
+			"rank": 6,
+			"rank_label": "E+"
+		},
+		{
+			"rank": 7,
+			"rank_label": "D"
+		},
+		{
+			"rank": 8,
+			"rank_label": "D+"
+		},
+		{
+			"rank": 9,
+			"rank_label": "C"
+		},
+		{
+			"rank": 10,
+			"rank_label": "C+"
+		},
+		{
+			"rank": 11,
+			"rank_label": "B"
+		},
+		{
+			"rank": 12,
+			"rank_label": "B+"
+		},
+		{
+			"rank": 13,
+			"rank_label": "A"
+		},
+		{
+			"rank": 14,
+			"rank_label": "A+"
+		},
+		{
+			"rank": 15,
+			"rank_label": "S"
+		},
+		{
+			"rank": 16,
+			"rank_label": "S+"
+		},
+		{
+			"rank": 17,
+			"rank_label": "SS"
+		},
+		{
+			"rank": 18,
+			"rank_label": "UG"
+		},
+		{
+			"rank": 19,
+			"rank_label": "UG1"
+		},
+		{
+			"rank": 20,
+			"rank_label": "UG2"
+		},
+		{
+			"rank": 21,
+			"rank_label": "UG3"
+		},
+		{
+			"rank": 22,
+			"rank_label": "UG4"
+		},
+		{
+			"rank": 23,
+			"rank_label": "UG5"
+		},
+		{
+			"rank": 24,
+			"rank_label": "UG6"
+		},
+		{
+			"rank": 25,
+			"rank_label": "UG7"
+		},
+		{
+			"rank": 26,
+			"rank_label": "UG8"
+		},
+		{
+			"rank": 27,
+			"rank_label": "UG9"
+		},
+		{
+			"rank": 28,
+			"rank_label": "UF"
+		},
+		{
+			"rank": 29,
+			"rank_label": "UF1"
+		},
+		{
+			"rank": 30,
+			"rank_label": "UF2"
+		},
+		{
+			"rank": 31,
+			"rank_label": "UF3"
+		},
+		{
+			"rank": 32,
+			"rank_label": "UF4"
+		},
+		{
+			"rank": 33,
+			"rank_label": "UF5"
+		},
+		{
+			"rank": 34,
+			"rank_label": "UF6"
+		},
+		{
+			"rank": 35,
+			"rank_label": "UF7"
+		},
+		{
+			"rank": 36,
+			"rank_label": "UF8"
+		},
+		{
+			"rank": 37,
+			"rank_label": "UF9"
+		},
+		{
+			"rank": 38,
+			"rank_label": "UE"
+		},
+		{
+			"rank": 39,
+			"rank_label": "UE1"
+		},
+		{
+			"rank": 40,
+			"rank_label": "UE2"
+		},
+		{
+			"rank": 41,
+			"rank_label": "UE3"
+		},
+		{
+			"rank": 42,
+			"rank_label": "UE4"
+		},
+		{
+			"rank": 43,
+			"rank_label": "UE5"
+		},
+		{
+			"rank": 44,
+			"rank_label": "UE6"
+		},
+		{
+			"rank": 45,
+			"rank_label": "UE7"
+		},
+		{
+			"rank": 46,
+			"rank_label": "UE8"
+		},
+		{
+			"rank": 47,
+			"rank_label": "UE9"
+		},
+		{
+			"rank": 48,
+			"rank_label": "UD"
+		},
+		{
+			"rank": 49,
+			"rank_label": "UD1"
+		},
+		{
+			"rank": 50,
+			"rank_label": "UD2"
+		},
+		{
+			"rank": 51,
+			"rank_label": "UD3"
+		},
+		{
+			"rank": 52,
+			"rank_label": "UD4"
+		},
+		{
+			"rank": 53,
+			"rank_label": "UD5"
+		},
+		{
+			"rank": 54,
+			"rank_label": "UD6"
+		},
+		{
+			"rank": 55,
+			"rank_label": "UD7"
+		},
+		{
+			"rank": 56,
+			"rank_label": "UD8"
+		},
+		{
+			"rank": 57,
+			"rank_label": "UD9"
+		},
+		{
+			"rank": 58,
+			"rank_label": "UC"
+		},
+		{
+			"rank": 59,
+			"rank_label": "UC1"
+		},
+		{
+			"rank": 60,
+			"rank_label": "UC2"
+		},
+		{
+			"rank": 61,
+			"rank_label": "UC3"
+		},
+		{
+			"rank": 62,
+			"rank_label": "UC4"
+		},
+		{
+			"rank": 63,
+			"rank_label": "UC5"
+		},
+		{
+			"rank": 64,
+			"rank_label": "UC6"
+		},
+		{
+			"rank": 65,
+			"rank_label": "UC7"
+		},
+		{
+			"rank": 66,
+			"rank_label": "UC8"
+		},
+		{
+			"rank": 67,
+			"rank_label": "UC9"
+		},
+		{
+			"rank": 68,
+			"rank_label": "UB"
+		},
+		{
+			"rank": 69,
+			"rank_label": "UB1"
+		},
+		{
+			"rank": 70,
+			"rank_label": "UB2"
+		},
+		{
+			"rank": 71,
+			"rank_label": "UB3"
+		},
+		{
+			"rank": 72,
+			"rank_label": "UB4"
+		},
+		{
+			"rank": 73,
+			"rank_label": "UB5"
+		},
+		{
+			"rank": 74,
+			"rank_label": "UB6"
+		},
+		{
+			"rank": 75,
+			"rank_label": "UB7"
+		},
+		{
+			"rank": 76,
+			"rank_label": "UB8"
+		},
+		{
+			"rank": 77,
+			"rank_label": "UB9"
+		},
+		{
+			"rank": 78,
+			"rank_label": "UA"
+		},
+		{
+			"rank": 79,
+			"rank_label": "UA1"
+		},
+		{
+			"rank": 80,
+			"rank_label": "UA2"
+		},
+		{
+			"rank": 81,
+			"rank_label": "UA3"
+		},
+		{
+			"rank": 82,
+			"rank_label": "UA4"
+		},
+		{
+			"rank": 83,
+			"rank_label": "UA5"
+		},
+		{
+			"rank": 84,
+			"rank_label": "UA6"
+		},
+		{
+			"rank": 85,
+			"rank_label": "UA7"
+		},
+		{
+			"rank": 86,
+			"rank_label": "UA8"
+		},
+		{
+			"rank": 87,
+			"rank_label": "UA9"
+		},
+		{
+			"rank": 88,
+			"rank_label": "US"
+		},
+		{
+			"rank": 89,
+			"rank_label": "US1"
+		},
+		{
+			"rank": 90,
+			"rank_label": "US2"
+		},
+		{
+			"rank": 91,
+			"rank_label": "US3"
+		},
+		{
+			"rank": 92,
+			"rank_label": "US4"
+		},
+		{
+			"rank": 93,
+			"rank_label": "US5"
+		},
+		{
+			"rank": 94,
+			"rank_label": "US6"
+		},
+		{
+			"rank": 95,
+			"rank_label": "US7"
+		},
+		{
+			"rank": 96,
+			"rank_label": "US8"
+		},
+		{
+			"rank": 97,
+			"rank_label": "US9"
+		}
+	],
+	"aptitudes": [
+		{
+			"aptitude": 1,
+			"aptitude_label": "G"
+		},
+		{
+			"aptitude": 2,
+			"aptitude_label": "F"
+		},
+		{
+			"aptitude": 3,
+			"aptitude_label": "E"
+		},
+		{
+			"aptitude": 4,
+			"aptitude_label": "D"
+		},
+		{
+			"aptitude": 5,
+			"aptitude_label": "C"
+		},
+		{
+			"aptitude": 6,
+			"aptitude_label": "B"
+		},
+		{
+			"aptitude": 7,
+			"aptitude_label": "A"
+		},
+		{
+			"aptitude": 8,
+			"aptitude_label": "S"
+		}
+	],
+	"skill_rarities": [
+		{
+			"id": 1,
+			"skill_type": "Normal"
+		},
+		{
+			"id": 2,
+			"skill_type": "Gold"
+		},
+		{
+			"id": 3,
+			"skill_type": "Unique (not upgraded)"
+		},
+		{
+			"id": 4,
+			"skill_type": "Unique (upgraded)"
+		},
+		{
+			"id": 5,
+			"skill_type": "Unique"
+		}
+	],
+	"factor_types": [
+		{
+			"id": 1,
+			"type": "Stat"
+		},
+		{
+			"id": 2,
+			"type": "Aptitude"
+		},
+		{
+			"id": 3,
+			"type": "Unique Skill"
+		},
+		{
+			"id": 4,
+			"type": "Normal Skill"
+		},
+		{
+			"id": 5,
+			"type": "Race"
+		},
+		{
+			"id": 6,
+			"type": "Scenario"
+		}
+	],
+	"factor_colors": [
+		{
+			"color_name": "blue",
+			"color_value": "#3fbbf4"
+		},
+		{
+			"color_name": "pink",
+			"color_value": "#ff7fb5"
+		},
+		{
+			"color_name": "green",
+			"color_value": "#94d331"
+		},
+		{
+			"color_name": "white",
+			"color_value": "#e1e0e1"
+		}
+	]
+}
