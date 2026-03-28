@@ -44,3 +44,6 @@ next-env.d.ts
 data/**/*.json
 !data/game-data.json
 !data/metadata.json
+
+# temp
+prompts/*
