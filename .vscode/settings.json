@@ -1,0 +1,7 @@
+{
+	"editor.codeActionsOnSave": {
+		"source.organizeImports.biome": "explicit"
+	},
+	"git.blame.editorDecoration.enabled": true,
+	"tailwindCSS.classFunctions": ["cva", "cn", "clsx"]
+}

@@ -4,11 +4,36 @@
 
 @custom-variant dark (&:is(.dark *));
 
+@theme static {
+	/* Stat colors */
+	--color-stat-speed: oklch(0.7435 0.148 237.2);
+	--color-stat-stamina: oklch(0.748 0.1506 29.84);
+	--color-stat-power: oklch(0.8115 0.1681 76.32);
+	--color-stat-guts: oklch(0.7478 0.1666 359.93);
+	--color-stat-wit: oklch(0.7587 0.1559 165.17);
+
+	/* Spark colors */
+	--color-spark-blue: oklch(0.7486 0.134 232.88);
+	--color-spark-pink: oklch(0.757 0.1652 355.19);
+	--color-spark-green: oklch(0.7953 0.1943 129.19);
+	--color-spark-white: oklch(0.9078 0.0017 325.59);
+
+	/* Aptitude grade colors */
+	--color-apt-s: oklch(0.8898 0.1566 93.83);
+	--color-apt-a: oklch(0.7705 0.1515 52.95);
+	--color-apt-b: oklch(0.75 0.1449 2.6);
+	--color-apt-c: oklch(0.8635 0.1704 139.06);
+	--color-apt-d: oklch(0.7435 0.148 237.2);
+	--color-apt-e: oklch(0.7647 0.1928 319.04);
+	--color-apt-f: oklch(0.7411 0.1454 292.37);
+	--color-apt-g: oklch(0.8843 0.0053 325.62);
+}
+
 @theme inline {
 	--color-background: var(--background);
 	--color-foreground: var(--foreground);
 	--font-sans: var(--font-sans);
-	--font-mono: var(--font-geist-mono);
+	--font-mono: var(--font-mono);
 	--font-heading: var(--font-sans);
 	--color-sidebar-ring: var(--sidebar-ring);
 	--color-sidebar-border: var(--sidebar-border);
@@ -46,6 +71,11 @@
 	--radius-2xl: calc(var(--radius) * 1.8);
 	--radius-3xl: calc(var(--radius) * 2.2);
 	--radius-4xl: calc(var(--radius) * 2.6);
+}
+
+@theme inline static {
+	--color-apt-text-black: var(--color-gray-950);
+	--color-apt-text-white: var(--color-white);
 }
 
 :root {
