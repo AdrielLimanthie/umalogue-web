@@ -12,12 +12,6 @@
 	--color-stat-guts: oklch(0.7478 0.1666 359.93);
 	--color-stat-wit: oklch(0.7587 0.1559 165.17);
 
-	/* Spark colors */
-	--color-spark-blue: oklch(0.7486 0.134 232.88);
-	--color-spark-pink: oklch(0.757 0.1652 355.19);
-	--color-spark-green: oklch(0.7953 0.1943 129.19);
-	--color-spark-white: oklch(0.9078 0.0017 325.59);
-
 	/* Aptitude grade colors */
 	--color-apt-s: oklch(0.8898 0.1566 93.83);
 	--color-apt-a: oklch(0.7705 0.1515 52.95);
@@ -27,6 +21,7 @@
 	--color-apt-e: oklch(0.7647 0.1928 319.04);
 	--color-apt-f: oklch(0.7411 0.1454 292.37);
 	--color-apt-g: oklch(0.8843 0.0053 325.62);
+	--color-apt-foreground: oklch(0.145 0 0);
 }
 
 @theme inline {
@@ -71,11 +66,15 @@
 	--radius-2xl: calc(var(--radius) * 1.8);
 	--radius-3xl: calc(var(--radius) * 2.2);
 	--radius-4xl: calc(var(--radius) * 2.6);
-}
 
-@theme inline static {
-	--color-apt-text-black: var(--color-gray-950);
-	--color-apt-text-white: var(--color-white);
+	/* Colors for sparks */
+	--color-spark-blue: var(--spark-blue);
+	--color-spark-pink: var(--spark-pink);
+	--color-spark-green: var(--spark-green);
+	--color-spark-highlight: var(--yellow-highlight);
+
+	/* Shadow color */
+	--color-shadow: var(--shadow-color);
 }
 
 :root {
@@ -111,6 +110,13 @@
 	--sidebar-accent-foreground: oklch(0.205 0 0);
 	--sidebar-border: oklch(0.922 0 0);
 	--sidebar-ring: oklch(0.708 0 0);
+	--shadow-color: oklch(0.2 0 0);
+	--yellow-highlight: var(--color-amber-500);
+
+	/* Game-specific */
+	--spark-blue: #008cce;
+	--spark-pink: #d86789;
+	--spark-green: #59ae3d;
 }
 
 .dark {
@@ -145,6 +151,13 @@
 	--sidebar-accent-foreground: oklch(0.985 0 0);
 	--sidebar-border: oklch(1 0 0 / 10%);
 	--sidebar-ring: oklch(0.556 0 0);
+	--shadow-color: transparent;
+	--yellow-highlight: var(--color-amber-400);
+
+	/* Game-specific */
+	--spark-blue: oklch(0.7486 0.134 232.88);
+	--spark-pink: oklch(0.757 0.1652 355.19);
+	--spark-green: oklch(0.7953 0.1943 129.19);
 }
 
 @layer base {

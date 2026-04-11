@@ -1,16 +1,16 @@
 import type { Metadata } from "next";
-import { SUSE, SUSE_Mono } from "next/font/google";
+import { Overpass, Overpass_Mono } from "next/font/google";
 import { Header } from "@/components/layout/Header";
 import { Toaster } from "@/components/ui/toaster";
 import { darkModeScript } from "@/lib/dark-mode";
 import "./globals.css";
 
-const suseSans = SUSE({
+const overpassSans = Overpass({
 	variable: "--font-sans",
 	subsets: ["latin"],
 });
 
-const suseMono = SUSE_Mono({
+const overpassMono = Overpass_Mono({
 	variable: "--font-mono",
 	subsets: ["latin"],
 });
@@ -28,7 +28,7 @@ export default function RootLayout({
 	return (
 		<html
 			lang="en"
-			className={`${suseSans.variable} ${suseMono.variable} h-full antialiased`}
+			className={`${overpassSans.variable} ${overpassMono.variable} h-full antialiased`}
 			suppressHydrationWarning
 		>
 			<head>

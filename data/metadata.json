@@ -116,322 +116,326 @@
 		},
 		{
 			"rank": 18,
-			"rank_label": "UG"
+			"rank_label": "SS+"
 		},
 		{
 			"rank": 19,
-			"rank_label": "UG1"
+			"rank_label": "UG"
 		},
 		{
 			"rank": 20,
-			"rank_label": "UG2"
+			"rank_label": "UG1"
 		},
 		{
 			"rank": 21,
-			"rank_label": "UG3"
+			"rank_label": "UG2"
 		},
 		{
 			"rank": 22,
-			"rank_label": "UG4"
+			"rank_label": "UG3"
 		},
 		{
 			"rank": 23,
-			"rank_label": "UG5"
+			"rank_label": "UG4"
 		},
 		{
 			"rank": 24,
-			"rank_label": "UG6"
+			"rank_label": "UG5"
 		},
 		{
 			"rank": 25,
-			"rank_label": "UG7"
+			"rank_label": "UG6"
 		},
 		{
 			"rank": 26,
-			"rank_label": "UG8"
+			"rank_label": "UG7"
 		},
 		{
 			"rank": 27,
-			"rank_label": "UG9"
+			"rank_label": "UG8"
 		},
 		{
 			"rank": 28,
-			"rank_label": "UF"
+			"rank_label": "UG9"
 		},
 		{
 			"rank": 29,
-			"rank_label": "UF1"
+			"rank_label": "UF"
 		},
 		{
 			"rank": 30,
-			"rank_label": "UF2"
+			"rank_label": "UF1"
 		},
 		{
 			"rank": 31,
-			"rank_label": "UF3"
+			"rank_label": "UF2"
 		},
 		{
 			"rank": 32,
-			"rank_label": "UF4"
+			"rank_label": "UF3"
 		},
 		{
 			"rank": 33,
-			"rank_label": "UF5"
+			"rank_label": "UF4"
 		},
 		{
 			"rank": 34,
-			"rank_label": "UF6"
+			"rank_label": "UF5"
 		},
 		{
 			"rank": 35,
-			"rank_label": "UF7"
+			"rank_label": "UF6"
 		},
 		{
 			"rank": 36,
-			"rank_label": "UF8"
+			"rank_label": "UF7"
 		},
 		{
 			"rank": 37,
-			"rank_label": "UF9"
+			"rank_label": "UF8"
 		},
 		{
 			"rank": 38,
-			"rank_label": "UE"
+			"rank_label": "UF9"
 		},
 		{
 			"rank": 39,
-			"rank_label": "UE1"
+			"rank_label": "UE"
 		},
 		{
 			"rank": 40,
-			"rank_label": "UE2"
+			"rank_label": "UE1"
 		},
 		{
 			"rank": 41,
-			"rank_label": "UE3"
+			"rank_label": "UE2"
 		},
 		{
 			"rank": 42,
-			"rank_label": "UE4"
+			"rank_label": "UE3"
 		},
 		{
 			"rank": 43,
-			"rank_label": "UE5"
+			"rank_label": "UE4"
 		},
 		{
 			"rank": 44,
-			"rank_label": "UE6"
+			"rank_label": "UE5"
 		},
 		{
 			"rank": 45,
-			"rank_label": "UE7"
+			"rank_label": "UE6"
 		},
 		{
 			"rank": 46,
-			"rank_label": "UE8"
+			"rank_label": "UE7"
 		},
 		{
 			"rank": 47,
-			"rank_label": "UE9"
+			"rank_label": "UE8"
 		},
 		{
 			"rank": 48,
-			"rank_label": "UD"
+			"rank_label": "UE9"
 		},
 		{
 			"rank": 49,
-			"rank_label": "UD1"
+			"rank_label": "UD"
 		},
 		{
 			"rank": 50,
-			"rank_label": "UD2"
+			"rank_label": "UD1"
 		},
 		{
 			"rank": 51,
-			"rank_label": "UD3"
+			"rank_label": "UD2"
 		},
 		{
 			"rank": 52,
-			"rank_label": "UD4"
+			"rank_label": "UD3"
 		},
 		{
 			"rank": 53,
-			"rank_label": "UD5"
+			"rank_label": "UD4"
 		},
 		{
 			"rank": 54,
-			"rank_label": "UD6"
+			"rank_label": "UD5"
 		},
 		{
 			"rank": 55,
-			"rank_label": "UD7"
+			"rank_label": "UD6"
 		},
 		{
 			"rank": 56,
-			"rank_label": "UD8"
+			"rank_label": "UD7"
 		},
 		{
 			"rank": 57,
-			"rank_label": "UD9"
+			"rank_label": "UD8"
 		},
 		{
 			"rank": 58,
-			"rank_label": "UC"
+			"rank_label": "UD9"
 		},
 		{
 			"rank": 59,
-			"rank_label": "UC1"
+			"rank_label": "UC"
 		},
 		{
 			"rank": 60,
-			"rank_label": "UC2"
+			"rank_label": "UC1"
 		},
 		{
 			"rank": 61,
-			"rank_label": "UC3"
+			"rank_label": "UC2"
 		},
 		{
 			"rank": 62,
-			"rank_label": "UC4"
+			"rank_label": "UC3"
 		},
 		{
 			"rank": 63,
-			"rank_label": "UC5"
+			"rank_label": "UC4"
 		},
 		{
 			"rank": 64,
-			"rank_label": "UC6"
+			"rank_label": "UC5"
 		},
 		{
 			"rank": 65,
-			"rank_label": "UC7"
+			"rank_label": "UC6"
 		},
 		{
 			"rank": 66,
-			"rank_label": "UC8"
+			"rank_label": "UC7"
 		},
 		{
 			"rank": 67,
-			"rank_label": "UC9"
+			"rank_label": "UC8"
 		},
 		{
 			"rank": 68,
-			"rank_label": "UB"
+			"rank_label": "UC9"
 		},
 		{
 			"rank": 69,
-			"rank_label": "UB1"
+			"rank_label": "UB"
 		},
 		{
 			"rank": 70,
-			"rank_label": "UB2"
+			"rank_label": "UB1"
 		},
 		{
 			"rank": 71,
-			"rank_label": "UB3"
+			"rank_label": "UB2"
 		},
 		{
 			"rank": 72,
-			"rank_label": "UB4"
+			"rank_label": "UB3"
 		},
 		{
 			"rank": 73,
-			"rank_label": "UB5"
+			"rank_label": "UB4"
 		},
 		{
 			"rank": 74,
-			"rank_label": "UB6"
+			"rank_label": "UB5"
 		},
 		{
 			"rank": 75,
-			"rank_label": "UB7"
+			"rank_label": "UB6"
 		},
 		{
 			"rank": 76,
-			"rank_label": "UB8"
+			"rank_label": "UB7"
 		},
 		{
 			"rank": 77,
-			"rank_label": "UB9"
+			"rank_label": "UB8"
 		},
 		{
 			"rank": 78,
-			"rank_label": "UA"
+			"rank_label": "UB9"
 		},
 		{
 			"rank": 79,
-			"rank_label": "UA1"
+			"rank_label": "UA"
 		},
 		{
 			"rank": 80,
-			"rank_label": "UA2"
+			"rank_label": "UA1"
 		},
 		{
 			"rank": 81,
-			"rank_label": "UA3"
+			"rank_label": "UA2"
 		},
 		{
 			"rank": 82,
-			"rank_label": "UA4"
+			"rank_label": "UA3"
 		},
 		{
 			"rank": 83,
-			"rank_label": "UA5"
+			"rank_label": "UA4"
 		},
 		{
 			"rank": 84,
-			"rank_label": "UA6"
+			"rank_label": "UA5"
 		},
 		{
 			"rank": 85,
-			"rank_label": "UA7"
+			"rank_label": "UA6"
 		},
 		{
 			"rank": 86,
-			"rank_label": "UA8"
+			"rank_label": "UA7"
 		},
 		{
 			"rank": 87,
-			"rank_label": "UA9"
+			"rank_label": "UA8"
 		},
 		{
 			"rank": 88,
-			"rank_label": "US"
+			"rank_label": "UA9"
 		},
 		{
 			"rank": 89,
-			"rank_label": "US1"
+			"rank_label": "US"
 		},
 		{
 			"rank": 90,
-			"rank_label": "US2"
+			"rank_label": "US1"
 		},
 		{
 			"rank": 91,
-			"rank_label": "US3"
+			"rank_label": "US2"
 		},
 		{
 			"rank": 92,
-			"rank_label": "US4"
+			"rank_label": "US3"
 		},
 		{
 			"rank": 93,
-			"rank_label": "US5"
+			"rank_label": "US4"
 		},
 		{
 			"rank": 94,
-			"rank_label": "US6"
+			"rank_label": "US5"
 		},
 		{
 			"rank": 95,
-			"rank_label": "US7"
+			"rank_label": "US6"
 		},
 		{
 			"rank": 96,
-			"rank_label": "US8"
+			"rank_label": "US7"
 		},
 		{
 			"rank": 97,
+			"rank_label": "US8"
+		},
+		{
+			"rank": 98,
 			"rank_label": "US9"
 		}
 	],

@@ -19,10 +19,10 @@ This version has breaking changes — APIs, conventions, and file structure may 
 ## Key Conventions
 
 - File naming: **kebab-case** for non-component files (`filter-veterans.ts`), **PascalCase** for React components (`VeteranCard.tsx`).
+- **Component naming**: Always use full, readable names. Abbreviations sacrifice clarity for brevity. Use `AptitudeBadge` not `AptBadge`, `VeteranCard` not `VeteranCardComponent`. Exception: single-letter type params (`T`, `K`).
 - **File ordering**: top-down — write the main exported function/component first, then the helpers and sub-components it depends on.
 - Package manager: **pnpm only** (enforced via `packageManager` in `package.json`).
 - Veteran unique ID: `String(trained_chara_id)`. Used in URLs and as map keys everywhere.
-- `AptitudeSet` has a typo: `oikoiLabel` (not `oikomiLabel`). This is intentional and consistent throughout.
 
 ## Shared Code
 
@@ -31,13 +31,13 @@ Before adding a local constant, helper, or component, check if it already exists
 - **Utility functions** used in more than one feature area → `src/lib/common.ts` (e.g. `starString`)
 - **Constants** used in more than one feature area → `src/constants/<domain>.ts`:
   - `aptitudes.ts` — `APTITUDE_COLOR`, `APTITUDE_SECTIONS`
-  - `stats.ts` — `STAT_DEFS` (keys, labels, colorClasses; `MAX_STAT` stays local per component)
+  - `stats.ts` — `STAT_DEFS`, `MAX_STAT_CARD` (1200), `MAX_STAT_DETAIL` (2500)
   - `sparks.ts` — `SPARK_COLORS`
   - `compare.ts` — compare-page-specific structures (`APTITUDE_ROWS`)
 - **Components** shared across more than one feature area → `src/components/common/`:
   - `SparkPill` — single spark badge
   - `LegacySparkGroup` — sparks for one legacy filtered by color
-  - `AptBadge` — aptitude grade badge; accepts `size` prop (`"sm"` | `"md"` | `"lg"`)
+  - `AptitudeBadge` — aptitude grade badge; accepts `size` prop (`"sm"` | `"md"` | `"lg"`)
   - `StatBar` — stat progress bar; accepts `maxStat` prop (Detail uses 2500, Card uses 1200)
 
 ## Data Notes
