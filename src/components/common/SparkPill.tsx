@@ -1,4 +1,4 @@
-import { starString } from "@/lib/common";
+import { getSparkDescription, starString } from "@/lib/common";
 import { cn } from "@/lib/utils";
 import type { ParsedFactor } from "@/types/veteran";
 
@@ -33,7 +33,7 @@ export function SparkPill({ spark, isDirect = false }: SparkPillProps) {
 				"inline-flex items-center gap-1 rounded-full border-2 px-2 py-0.5 text-sm font-medium",
 				sparkColorClass,
 			)}
-			title={`${spark.name_en} ${stars}${isDirect ? " (direct)" : ""}`}
+			title={getSparkDescription(spark, isDirect)}
 		>
 			<span className="max-w-60 truncate">{spark.name_en}</span>
 			<span className={cn("shrink-0", starsColorClass)}>{stars}</span>

@@ -4298,31 +4298,101 @@
 			"id": "1",
 			"type": 1,
 			"name_en": "Speed",
-			"color": "blue"
+			"color": "blue",
+			"gains": [
+				{
+					"level": 1,
+					"gain": "Speed +5 (inherit +1 to +10)"
+				},
+				{
+					"level": 2,
+					"gain": "Speed +12 (inherit +1 to +16)"
+				},
+				{
+					"level": 3,
+					"gain": "Speed +21 (inherit +1 to +28)"
+				}
+			]
 		},
 		{
 			"id": "2",
 			"type": 1,
 			"name_en": "Stamina",
-			"color": "blue"
+			"color": "blue",
+			"gains": [
+				{
+					"level": 1,
+					"gain": "Stamina +5 (inherit +1 to +10)"
+				},
+				{
+					"level": 2,
+					"gain": "Stamina +12 (inherit +1 to +16)"
+				},
+				{
+					"level": 3,
+					"gain": "Stamina +21 (inherit +1 to +28)"
+				}
+			]
 		},
 		{
 			"id": "3",
 			"type": 1,
 			"name_en": "Power",
-			"color": "blue"
+			"color": "blue",
+			"gains": [
+				{
+					"level": 1,
+					"gain": "Power +5 (inherit +1 to +10)"
+				},
+				{
+					"level": 2,
+					"gain": "Power +12 (inherit +1 to +16)"
+				},
+				{
+					"level": 3,
+					"gain": "Power +21 (inherit +1 to +28)"
+				}
+			]
 		},
 		{
 			"id": "4",
 			"type": 1,
 			"name_en": "Guts",
-			"color": "blue"
+			"color": "blue",
+			"gains": [
+				{
+					"level": 1,
+					"gain": "Guts +5 (inherit +1 to +10)"
+				},
+				{
+					"level": 2,
+					"gain": "Guts +12 (inherit +1 to +16)"
+				},
+				{
+					"level": 3,
+					"gain": "Guts +21 (inherit +1 to +28)"
+				}
+			]
 		},
 		{
 			"id": "5",
 			"type": 1,
 			"name_en": "Wit",
-			"color": "blue"
+			"color": "blue",
+			"gains": [
+				{
+					"level": 1,
+					"gain": "Wit +5 (inherit +1 to +10)"
+				},
+				{
+					"level": 2,
+					"gain": "Wit +12 (inherit +1 to +16)"
+				},
+				{
+					"level": 3,
+					"gain": "Wit +21 (inherit +1 to +28)"
+				}
+			]
 		},
 		{
 			"id": "11",
@@ -6026,229 +6096,457 @@
 			"id": "10001",
 			"type": 5,
 			"name_en": "February Stakes",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Power +3/6/9 and Winter Runner ○"
+				}
+			]
 		},
 		{
 			"id": "10002",
 			"type": 5,
 			"name_en": "Takamatsunomiya Kinen",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +3/6/9 and Chukyo Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10003",
 			"type": 5,
 			"name_en": "Osaka Hai",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Guts +3/6/9 and Standard Distance ○"
+				}
+			]
 		},
 		{
 			"id": "10004",
 			"type": 5,
 			"name_en": "Oka Sho",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Guts +3/6/9 and Hanshin Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10005",
 			"type": 5,
 			"name_en": "Satsuki Sho",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Power +3/6/9 and Nakayama Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10006",
 			"type": 5,
 			"name_en": "Tenno Sho (Spring)",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Stamina +3/6/9 and Spring Runner ○"
+				}
+			]
 		},
 		{
 			"id": "10007",
 			"type": 5,
 			"name_en": "NHK Mile Cup",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +3/6/9 and Power +3/6/9"
+				}
+			]
 		},
 		{
 			"id": "10008",
 			"type": 5,
 			"name_en": "Victoria Mile",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +3/6/9 and Power +3/6/9"
+				}
+			]
 		},
 		{
 			"id": "10009",
 			"type": 5,
 			"name_en": "Japanese Oaks",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Stamina +3/6/9 and Tokyo Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10010",
 			"type": 5,
 			"name_en": "Tokyo Yushun (Japanese Derby)",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Guts +3/6/9 and Tokyo Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10011",
 			"type": 5,
 			"name_en": "Yasuda Kinen",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +3/6/9 and Tokyo Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10012",
 			"type": 5,
 			"name_en": "Takarazuka Kinen",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Guts +3/6/9 and Summer Runner ○"
+				}
+			]
 		},
 		{
 			"id": "10013",
 			"type": 5,
 			"name_en": "Sprinters Stakes",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +3/6/9 and Standard Distance ○"
+				}
+			]
 		},
 		{
 			"id": "10014",
 			"type": 5,
 			"name_en": "Shuka Sho",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Wit +3/6/9 and Kyoto Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10015",
 			"type": 5,
 			"name_en": "Kikuka Sho",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Stamina +3/6/9 and Kyoto Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10016",
 			"type": 5,
 			"name_en": "Tenno Sho (Autumn)",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +3/6/9 and Fall Runner ○"
+				}
+			]
 		},
 		{
 			"id": "10017",
 			"type": 5,
 			"name_en": "Queen Elizabeth II Cup",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Stamina +3/6/9 and Non-Standard Distance ○"
+				}
+			]
 		},
 		{
 			"id": "10018",
 			"type": 5,
 			"name_en": "Mile Championship",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +3/6/9 and Standard Distance ○"
+				}
+			]
 		},
 		{
 			"id": "10019",
 			"type": 5,
 			"name_en": "Japan Cup",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Stamina +3/6/9 and Tokyo Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10020",
 			"type": 5,
 			"name_en": "Champions Cup",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Power +3/6/9 and Chukyo Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10021",
 			"type": 5,
 			"name_en": "Hanshin Juvenile Fillies",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +3/6/9 and Power +3/+6/+9"
+				}
+			]
 		},
 		{
 			"id": "10022",
 			"type": 5,
 			"name_en": "Asahi Hai Futurity Stakes",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +3/6/9 and Guts +3/+6/+9"
+				}
+			]
 		},
 		{
 			"id": "10023",
 			"type": 5,
 			"name_en": "Arima Kinen",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Guts +3/6/9 and Nakayama Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10024",
 			"type": 5,
 			"name_en": "Hopeful Stakes",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +3/6/9 and Stamina +3/+6/+9"
+				}
+			]
 		},
 		{
 			"id": "10025",
 			"type": 5,
 			"name_en": "Teio Sho",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Power +3/6/9 and Oi Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10026",
 			"type": 5,
 			"name_en": "Japan Dirt Derby",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Power +3/6/9 and Oi Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10027",
 			"type": 5,
 			"name_en": "JBC Ladies’ Classic",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +3/6/9 and Guts +3/6/9"
+				}
+			]
 		},
 		{
 			"id": "10028",
 			"type": 5,
 			"name_en": "JBC Sprint",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Power +3/6/9 and Guts +3/6/9"
+				}
+			]
 		},
 		{
 			"id": "10029",
 			"type": 5,
 			"name_en": "JBC Classic",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Stamina +3/6/9 and Guts +3/6/9"
+				}
+			]
 		},
 		{
 			"id": "10030",
 			"type": 5,
 			"name_en": "Tokyo Daishoten",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Power +3/6/9 and Oi Racecourse ○"
+				}
+			]
 		},
 		{
 			"id": "10031",
 			"type": 5,
 			"name_en": "Mile Championship Nambu Hai",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Wit +3/6/9 and Morioka Racetrack ○"
+				}
+			]
 		},
 		{
 			"id": "10032",
 			"type": 5,
 			"name_en": "Kashiwa Kinen",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +3/6/9 and Funabashi Racetrack ○"
+				}
+			]
 		},
 		{
 			"id": "10033",
 			"type": 5,
 			"name_en": "Zen-Nippon Junior Yushun",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Power +3/6/9 and Nocturnal ○"
+				}
+			]
 		},
 		{
 			"id": "10034",
 			"type": 5,
 			"name_en": "Kawasaki Kinen",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Wit +3/6/9 and Kawasaki Racetrack ○"
+				}
+			]
 		},
 		{
 			"id": "10035",
 			"type": 5,
 			"name_en": "Prix de l'Arc de Triomphe",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Stamina +3/6/9 and Longchamp Racetrack ○"
+				}
+			]
 		},
 		{
 			"id": "30001",
 			"type": 6,
 			"name_en": "URA Finale",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Speed +10/20/30 and Stamina +10/20/30"
+				}
+			]
 		},
 		{
 			"id": "30002",
 			"type": 6,
 			"name_en": "Unity Cup",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Power +10/20/30 and Wit +10/20/30"
+				}
+			]
 		},
 		{
 			"id": "30003",
 			"type": 6,
 			"name_en": "TS Climax Scenario",
-			"color": "white"
+			"color": "white",
+			"gains": [
+				{
+					"level": 0,
+					"gain": "Stamina +10/20/30 and Guts +10/20/30"
+				}
+			]
 		}
 	],
 	"scenarios": [
