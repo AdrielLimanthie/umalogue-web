@@ -33,18 +33,6 @@ const SCOPE_LABEL: Record<string, string> = {
 	any: "any",
 };
 
-function sparkPillLabel(
-	prefix: string,
-	factorId: string | null,
-	minStars: number,
-	scope: string,
-): string {
-	const factorName = factorId
-		? (factorsById.get(factorId)?.name_en ?? factorId)
-		: "Any";
-	return `${prefix} ${factorName} ${starString(minStars)} (${SCOPE_LABEL[scope] ?? scope})`;
-}
-
 export function ActiveFilterPills({ filters, setFilter, resetFilters }: Props) {
 	const pills: Pill[] = [];
 
@@ -200,4 +188,16 @@ export function ActiveFilterPills({ filters, setFilter, resetFilters }: Props) {
 			</div>
 		</>
 	);
+}
+
+function sparkPillLabel(
+	prefix: string,
+	factorId: string | null,
+	minStars: number,
+	scope: string,
+): string {
+	const factorName = factorId
+		? (factorsById.get(factorId)?.name_en ?? factorId)
+		: "Any";
+	return `${prefix} ${factorName} ${starString(minStars)} (${SCOPE_LABEL[scope] ?? scope})`;
 }
