@@ -37,7 +37,7 @@ export function AddTagPopover({ appliedTags, onAddTag, onRemoveTag }: Props) {
 
 	const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
 		if (e.key === "Enter") {
-			const val = input.trim();
+			const val = inputRef.current?.value.trim() ?? "";
 			if (val && !appliedTags.includes(val)) {
 				onAddTag(val);
 			}
