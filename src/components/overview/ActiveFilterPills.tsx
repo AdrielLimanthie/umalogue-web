@@ -143,6 +143,16 @@ export function ActiveFilterPills({ filters, setFilter, resetFilters }: Props) {
 		});
 	}
 
+	if (filters.minWhiteSparks) {
+		const { value, scope } = filters.minWhiteSparks;
+		const scopeLabel = scope === "direct" ? "direct" : "any";
+		pills.push({
+			key: "minWhiteSparks",
+			label: `White sparks (${scopeLabel}) ≥ ${value}`,
+			onClear: () => setFilter("minWhiteSparks", null),
+		});
+	}
+
 	for (const tag of filters.tags) {
 		pills.push({
 			key: `tag:${tag}`,

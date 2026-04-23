@@ -25,6 +25,7 @@ const SORT_OPTIONS: { value: SortField; label: string }[] = [
 	{ value: "total-blue-stars", label: "Total Blue Sparks (★)" },
 	{ value: "total-pink-stars", label: "Total Pink Sparks (★)" },
 	{ value: "total-white-sparks", label: "Total White Sparks (count)" },
+	{ value: "direct-white-sparks", label: "Direct White Sparks (count)" },
 ];
 
 export function SortSelector() {
