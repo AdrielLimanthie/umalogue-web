@@ -17,6 +17,12 @@ export type Factor = {
 	type: number;
 	name_en: string;
 	color: "blue" | "pink" | "green" | "white";
+	gains?: FactorGain[];
+};
+
+export type FactorGain = {
+	level: 0 | 1 | 2 | 3;
+	gain: string;
 };
 
 export type Scenario = {

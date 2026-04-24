@@ -40,6 +40,11 @@ export type FilterState = {
 	pinkSparks: SparkFilter[];
 	greenSparks: GreenWhiteSparkFilter[];
 	whiteSparks: GreenWhiteSparkFilter[];
+	// White spark aggregate count filters
+	minWhiteSparks: null | {
+		value: number;
+		scope: GreenWhiteSparkFilterScope;
+	};
 	// Tags
 	tags: string[];
 };
@@ -64,7 +69,8 @@ export type SortField =
 	| "wiz"
 	| "total-blue-stars"
 	| "total-pink-stars"
-	| "total-white-sparks";
+	| "total-white-sparks"
+	| "direct-white-sparks";
 
 export type SortConfig = {
 	field: SortField;
@@ -89,6 +95,7 @@ export const DEFAULT_FILTERS: FilterState = {
 	pinkSparks: [],
 	greenSparks: [],
 	whiteSparks: [],
+	minWhiteSparks: null,
 	tags: [],
 };
 

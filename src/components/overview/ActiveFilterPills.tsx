@@ -33,18 +33,6 @@ const SCOPE_LABEL: Record<string, string> = {
 	any: "any",
 };
 
-function sparkPillLabel(
-	prefix: string,
-	factorId: string | null,
-	minStars: number,
-	scope: string,
-): string {
-	const factorName = factorId
-		? (factorsById.get(factorId)?.name_en ?? factorId)
-		: "Any";
-	return `${prefix} ${factorName} ${starString(minStars)} (${SCOPE_LABEL[scope] ?? scope})`;
-}
-
 export function ActiveFilterPills({ filters, setFilter, resetFilters }: Props) {
 	const pills: Pill[] = [];
 
@@ -155,6 +143,16 @@ export function ActiveFilterPills({ filters, setFilter, resetFilters }: Props) {
 		});
 	}
 
+	if (filters.minWhiteSparks) {
+		const { value, scope } = filters.minWhiteSparks;
+		const scopeLabel = scope === "direct" ? "direct" : "any";
+		pills.push({
+			key: "minWhiteSparks",
+			label: `White sparks (${scopeLabel}) ≥ ${value}`,
+			onClear: () => setFilter("minWhiteSparks", null),
+		});
+	}
+
 	for (const tag of filters.tags) {
 		pills.push({
 			key: `tag:${tag}`,
@@ -200,4 +198,16 @@ export function ActiveFilterPills({ filters, setFilter, resetFilters }: Props) {
 			</div>
 		</>
 	);
+}
+
+function sparkPillLabel(
+	prefix: string,
+	factorId: string | null,
+	minStars: number,
+	scope: string,
+): string {
+	const factorName = factorId
+		? (factorsById.get(factorId)?.name_en ?? factorId)
+		: "Any";
+	return `${prefix} ${factorName} ${starString(minStars)} (${SCOPE_LABEL[scope] ?? scope})`;
 }

@@ -123,6 +123,19 @@ export function filterVeterans(
 			if (!matchesGreenWhiteFilter(v, f, "white")) return false;
 		}
 
+		if (filters.minWhiteSparks) {
+			const { value, scope } = filters.minWhiteSparks;
+			const pool =
+				scope === "direct"
+					? v.directLegacy.sparks
+					: [
+							...v.directLegacy.sparks,
+							...v.subLegacies.flatMap((l) => l.sparks),
+						];
+			const count = pool.filter((s) => s.color === "white").length;
+			if (count < value) return false;
+		}
+
 		// Tags filter
 		if (filters.tags.length > 0) {
 			const veteranTags = tags[v.id] ?? [];

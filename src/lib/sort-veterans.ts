@@ -66,6 +66,8 @@ function getSortValue(
 			return totalStarsByColor(allSparks(v), "pink");
 		case "total-white-sparks":
 			return totalSparkCountByColor(allSparks(v), "white");
+		case "direct-white-sparks":
+			return totalSparkCountByColor(v.directLegacy.sparks, "white");
 		default:
 			return 0;
 	}

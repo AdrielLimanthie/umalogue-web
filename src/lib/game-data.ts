@@ -1,6 +1,7 @@
 import type {
 	Aptitude,
 	Factor,
+	FactorGain,
 	GameData,
 	Rank,
 	Scenario,
@@ -50,6 +51,14 @@ export const getUmaDisplayName = (cardId: number): string => {
 	const uma = umasByCardId.get(cardId);
 	if (!uma) return `Unknown Uma (${cardId})`;
 	return uma.version ? `${uma.name_en} (${uma.version})` : uma.name_en;
+};
+
+export const getFactorGains = (factorId: string): null | FactorGain[] => {
+	const foundFactor = gameData.factors.find((factor) => factor.id === factorId);
+	if (!foundFactor || !foundFactor.gains) {
+		return null;
+	}
+	return foundFactor.gains;
 };
 
 export { gameData };

@@ -9,6 +9,7 @@ import { StyleFilter } from "@/components/overview/filters/StyleFilter";
 import { TagFilter } from "@/components/overview/filters/TagFilter";
 import { TrackFilter } from "@/components/overview/filters/TrackFilter";
 import { UmaNameFilter } from "@/components/overview/filters/UmaNameFilter";
+import { WhiteSparkCountFilter } from "@/components/overview/filters/WhiteSparkCountFilter";
 import { SortSelector } from "@/components/overview/SortSelector";
 import { useUIStore } from "@/stores/use-ui-store";
 
@@ -51,6 +52,7 @@ export function FilterBar() {
 					filters={filters.whiteSparks}
 					onFiltersChange={(f) => setFilter("whiteSparks", f)}
 				/>
+				<WhiteSparkCountFilter />
 				<TagFilter />
 			</div>
 
