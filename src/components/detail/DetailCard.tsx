@@ -13,7 +13,7 @@ export function DetailCard({ veteran }: Props) {
 				cardId={veteran.card_id}
 				umaName={veteran.umaName}
 				sizes="160px"
-				className="shrink-0 rounded-lg w-32 h-32 sm:w-40 sm:h-40"
+				className="shrink-0 w-32 h-32 sm:w-40 sm:h-40"
 				priority
 			/>
 			<div className="flex flex-col gap-1.5 min-w-0">

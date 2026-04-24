@@ -12,7 +12,7 @@ export function VeteranCardImage({ cardId, umaName, isAboveTheFold }: Props) {
 			cardId={cardId}
 			umaName={umaName}
 			sizes="6rem"
-			className="shrink-0 rounded-md w-24 h-24"
+			className="shrink-0 w-24 h-24"
 			loading={isAboveTheFold ? "eager" : "lazy"}
 		/>
 	);

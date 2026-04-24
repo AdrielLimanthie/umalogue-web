@@ -151,7 +151,7 @@ export function FilterCombobox({
 				<span className="max-w-28 truncate">{triggerText}</span>
 				{active && !hideActiveIndicator && (
 					<span
-						className="h-1.5 w-1.5 rounded-full bg-primary shrink-0"
+						className="h-1.5 w-1.5 bg-primary shrink-0"
 						aria-hidden="true"
 					/>
 				)}
@@ -170,7 +170,7 @@ export function FilterCombobox({
 							return (
 								<span
 									key={val}
-									className="inline-flex items-center gap-1 rounded-full bg-primary/10 text-primary border border-primary/20 px-2 py-0.5 text-xs font-medium"
+									className="inline-flex items-center gap-1 bg-primary/10 text-primary border border-primary/20 px-2 py-0.5 text-xs font-medium"
 								>
 									{label}
 									<button

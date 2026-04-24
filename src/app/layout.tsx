@@ -1,17 +1,23 @@
 import type { Metadata } from "next";
-import { Overpass, Overpass_Mono } from "next/font/google";
+import { Geist_Mono, Press_Start_2P } from "next/font/google";
 import { Header } from "@/components/layout/Header";
 import { Toaster } from "@/components/ui/toaster";
 import { darkModeScript } from "@/lib/dark-mode";
 import "./globals.css";
 
-const overpassSans = Overpass({
+const geistMono = Geist_Mono({
 	variable: "--font-sans",
 	subsets: ["latin"],
 });
 
-const overpassMono = Overpass_Mono({
+const geistMonoMono = Geist_Mono({
 	variable: "--font-mono",
+	subsets: ["latin"],
+});
+
+const pressStart2P = Press_Start_2P({
+	variable: "--font-display",
+	weight: "400",
 	subsets: ["latin"],
 });
 
@@ -28,7 +34,7 @@ export default function RootLayout({
 	return (
 		<html
 			lang="en"
-			className={`${overpassSans.variable} ${overpassMono.variable} h-full antialiased`}
+			className={`${geistMono.variable} ${geistMonoMono.variable} ${pressStart2P.variable} h-full antialiased`}
 			suppressHydrationWarning
 		>
 			<head>

@@ -176,7 +176,7 @@ export function ActiveFilterPills({ filters, setFilter, resetFilters }: Props) {
 				{pills.map((pill) => (
 					<span
 						key={pill.key}
-						className="inline-flex items-center gap-1 rounded-full border border-border bg-muted px-2.5 py-1 text-xs font-medium"
+						className="inline-flex items-center gap-1 border border-border bg-muted px-2.5 py-1 text-xs font-medium"
 					>
 						{pill.label}
 						<PillCloseButton

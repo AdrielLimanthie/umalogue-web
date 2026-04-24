@@ -6,7 +6,7 @@ type Props = {
 
 export function UploadCard({ onUpload }: Props) {
 	return (
-		<div className="bg-card border border-border rounded-lg p-4 flex items-center justify-between gap-4 flex-wrap">
+		<div className="bg-card border-2 border-dashed border-border p-4 flex items-center justify-between gap-4 flex-wrap">
 			<div>
 				<p className="text-sm font-medium">Update veteran data</p>
 				<p className="text-xs text-muted-foreground mt-0.5">
