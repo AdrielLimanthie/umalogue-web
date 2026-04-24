@@ -42,7 +42,7 @@ export function VeteranCard({
 		}
 	};
 	return (
-		<article className="bg-card text-card-foreground border border-border rounded-lg p-4 flex flex-col gap-3 w-full">
+		<article className="bg-card text-card-foreground border-2 border-border shadow-md p-4 flex flex-col gap-3 w-full transition-[transform,box-shadow] hover:-translate-x-px hover:-translate-y-px hover:shadow-[5px_5px_0_0_var(--foreground)]">
 			{/* Top row: image | info+aptitudes | stats | buttons */}
 			<div className="flex flex-row gap-3 items-stretch">
 				<VeteranCardImage

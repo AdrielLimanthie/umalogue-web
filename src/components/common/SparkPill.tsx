@@ -10,16 +10,16 @@ export type SparkPillProps = {
 export function SparkPill({ spark, isDirect = false }: SparkPillProps) {
 	const stars = starString(spark.level);
 
-	let sparkColorClass = "border-foreground text-foreground";
+	let sparkBgClass = "bg-card text-foreground";
 	switch (spark.color) {
 		case "blue":
-			sparkColorClass = "border-spark-blue text-spark-blue";
+			sparkBgClass = "bg-spark-blue text-white";
 			break;
 		case "pink":
-			sparkColorClass = "border-spark-pink text-spark-pink";
+			sparkBgClass = "bg-spark-pink text-white";
 			break;
 		case "green":
-			sparkColorClass = "border-spark-green text-spark-green";
+			sparkBgClass = "bg-spark-green text-white";
 			break;
 	}
 
@@ -30,8 +30,8 @@ export function SparkPill({ spark, isDirect = false }: SparkPillProps) {
 	return (
 		<span
 			className={cn(
-				"inline-flex items-center gap-1 rounded-full border-2 px-2 py-0.5 text-sm font-medium",
-				sparkColorClass,
+				"inline-flex items-center gap-1 border-2 border-foreground shadow-sm px-2 py-0.5 text-sm font-medium whitespace-nowrap",
+				sparkBgClass,
 			)}
 			title={getSparkDescription(spark, isDirect)}
 		>

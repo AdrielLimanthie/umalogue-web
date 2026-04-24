@@ -22,9 +22,9 @@ export function StatBar({
 			>
 				{label}
 			</span>
-			<div className="flex-1 h-3 bg-muted rounded-full overflow-hidden">
+			<div className="flex-1 h-3 bg-muted border border-border overflow-hidden">
 				<div
-					className={`h-full rounded-full ${colorClass}`}
+					className={`h-full ${colorClass}`}
 					style={{ width: `${fillPercent}%` }}
 					role="progressbar"
 					aria-valuenow={value}

@@ -19,7 +19,7 @@ export function AptitudeBadge({
 	return (
 		<span
 			className={cn(
-				"inline-flex items-center justify-center rounded font-bold",
+				"inline-flex items-center justify-center font-bold",
 				SIZE_CLASS[size],
 				APTITUDE_COLOR[label] ?? "bg-muted text-muted-foreground",
 			)}

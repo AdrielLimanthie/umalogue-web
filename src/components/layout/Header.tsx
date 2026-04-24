@@ -19,10 +19,12 @@ export function Header() {
 	}, [isDarkMode]);
 
 	return (
-		<header className="border-b border-border bg-background shadow-md sticky top-0 z-50">
+		<header className="border-b-2 border-border bg-card shadow-md sticky top-0 z-50">
 			<Container className="flex items-center justify-between py-3">
 				<Link href="/" className="hover:opacity-80 transition-opacity">
-					<h1 className="text-2xl font-bold tracking-tight">Umalogue</h1>
+					<h1 className="font-[family-name:var(--font-display)] text-xs tracking-tight">
+						UMALOGUE
+					</h1>
 				</Link>
 
 				<nav className="flex items-center gap-3" aria-label="Site navigation">

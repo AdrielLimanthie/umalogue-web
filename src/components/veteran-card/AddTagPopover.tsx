@@ -55,7 +55,7 @@ export function AddTagPopover({ appliedTags, onAddTag, onRemoveTag }: Props) {
 	return (
 		<Popover open={open} onOpenChange={setOpen}>
 			<PopoverTrigger
-				className="inline-flex h-6 w-6 shrink-0 items-center justify-center rounded-full border border-border bg-background text-muted-foreground transition-colors cursor-pointer hover:bg-muted hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+				className="inline-flex h-6 w-6 shrink-0 items-center justify-center border border-border bg-background text-muted-foreground transition-colors cursor-pointer hover:bg-muted hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
 				aria-label="Add tag"
 			>
 				<Plus className="h-3 w-3" />

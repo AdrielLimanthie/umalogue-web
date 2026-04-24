@@ -16,7 +16,7 @@ type Props = {
 
 export function CompareTable({ left, right }: Props) {
 	return (
-		<div className="overflow-x-auto rounded-lg border border-border">
+		<div className="overflow-x-auto border-2 border-border shadow-md">
 			<table className="w-full table-fixed border-collapse text-sm">
 				<colgroup>
 					<col className="w-28" />

@@ -50,9 +50,9 @@ function StatCell({
 	return (
 		<td className={cn("px-3 py-1.5 align-middle", isBetter && "bg-primary/5")}>
 			<div className="flex items-center gap-2 text-sm">
-				<div className="flex-1 h-2 bg-muted rounded-full overflow-hidden">
+				<div className="flex-1 h-2 bg-muted border border-border overflow-hidden">
 					<div
-						className={`h-full rounded-full ${colorClass}`}
+						className={`h-full ${colorClass}`}
 						style={{ width: `${percentage}%` }}
 						role="progressbar"
 						aria-valuenow={value}

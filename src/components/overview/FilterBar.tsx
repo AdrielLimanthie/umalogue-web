@@ -17,7 +17,7 @@ export function FilterBar() {
 	const { filters, setFilter, resetFilters } = useUIStore();
 
 	return (
-		<div className="flex flex-col gap-2 bg-card border border-border rounded-lg p-3">
+		<div className="flex flex-col gap-2 bg-card border-2 border-border shadow-md p-3">
 			<div className="text-sm text-muted-foreground whitespace-nowrap">
 				Filter
 			</div>
